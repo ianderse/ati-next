@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ClassicToggle } from "./ClassicToggle";
 
 export function Footer() {
   return (
@@ -91,6 +92,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="mt-10 pt-6 border-t border-[var(--border-subtle)] flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[var(--text-muted)] font-[var(--font-ui)]">
           <span>For free distribution only.</span>
+          <ClassicToggle />
           <span>
             Rebuilt with care using Next.js
           </span>

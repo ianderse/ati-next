@@ -2,15 +2,22 @@
 
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
+import { useClassicMode } from "@/lib/classic-mode";
 
 export function ThemeToggle() {
   const { theme, setTheme } = useTheme();
+  const { isClassic } = useClassicMode();
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => setMounted(true), []);
 
   if (!mounted) {
     return <div className="w-8 h-8" />;
+  }
+
+  // Hide toggle in classic mode (light-only)
+  if (isClassic) {
+    return null;
   }
 
   const isDark = theme === "dark";
