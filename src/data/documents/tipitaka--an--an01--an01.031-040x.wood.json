@@ -1,0 +1,55 @@
+{
+  "slug": "tipitaka--an--an01--an01.031-040x.wood",
+  "originalPath": "tipitaka/an/an01/an01.031-040x.wood.html",
+  "urlPath": "/tipitaka/an/an01/an01.031-040x.wood",
+  "type": "sutta",
+  "title": "Adanta Suttas",
+  "subtitle": "Untamed",
+  "subtitle2": "",
+  "pageTitle": "Adanta Suttas: Untamed",
+  "author": "F.L. Woodward",
+  "authorShortname": "Woodward",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "F.L. Woodward",
+  "nikaya": "Anguttara",
+  "nikayaAbbrev": "AN",
+  "number": "31-40",
+  "ptsId": "A i 5",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><!--\njtb 020511: For years I've had this sutta listed incorrectly as \"Abhavita Sutta\" (abhaavita = \"not developed, not practiced\"). I also had it incorrectly placed in vagga 3, and got the sections numbered wrong (\"I.21-26\"). By interpolating with BGS (p. 5), it appears that this translation includes sections 1-4 and 9-10 of book I, vagga 4: Adantavagga, (adanta = \"untamed\").\n\nShouldn't 39 and 40 end with \"great loss\" (mahato anatthaaya) and \"great profit\" (mahato atthaaya), respectively?\n--><html><head></head><body><div class=\"chapter\">\n<p><a id=\"sutta-31\">31</a>. \"Monks, I know not of any other single thing so intractable as the untamed mind. The untamed mind is indeed a thing untractable. </p>\n<p><a id=\"sutta-32\">32</a>. \"Monks, I know not of any other thing so tractable as the tamed mind. The tamed mind is indeed a thing tractable.</p>\n<p><a id=\"sutta-33\">33</a>. \"Monks, I know not of any other single thing so conducive to great loss as the untamed mind. The untamed mind indeed conduces to great loss.</p>\n<p><a id=\"sutta-34\">34</a>. \"Monks, I know not of any other single thing so conducive to great profit as the tamed mind. The tamed mind indeed conduces to great profit.</p>\n<p><a id=\"sutta-39\">39</a>. \"Monks, I know not of any other single thing that brings such woe as the mind that is untamed, uncontrolled, unguarded and unrestrained. Such a mind indeed brings great woe. </p>\n<p><a id=\"sutta-40\">40</a>. \"Monks, I know not of any other single thing that brings such bliss as the mind that is tamed, controlled, guarded and restrained. Such a mind indeed brings great bliss.\" </p>\n</div>\n</body></html>",
+  "summary": "There's nothing so conducive to happiness as a mind that has been tamed.",
+  "extent": "excerpt",
+  "license": "UNKNOWN",
+  "copyrightOwner": "Buddhist Publication Society",
+  "copyrightYear": "1983",
+  "derivedLicenseHtml": "You may copy, reformat, reprint, republish, and redistribute this work in any medium whatsoever, provided that: (1) you only make such copies, etc. available <em>free of charge</em> and, in the case of reprinting, only in quantities of no more than 50 copies; (2) you clearly indicate that any derivatives of this work (including translations) are derived from this source document; and (3) you include the full text of this license in any copies or derivatives of this work. Otherwise, all rights reserved. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "1998",
+  "source": "From <a href='../../../lib/authors/various/wheel051.html'><i>Taming the Mind: Discourses of the Buddha (WH 51)</i></a>, edited by the Buddhist Publication Society (Kandy: Buddhist Publication Society, 1983). Copyright &copy; 1983 Buddhist Publication Society. Used with permission.",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Anguttara Nikaya",
+      "href": "/tipitaka/an"
+    },
+    {
+      "label": "an01",
+      "href": "/tipitaka/an/an01"
+    }
+  ],
+  "section": "tipitaka"
+}

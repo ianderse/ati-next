@@ -1,0 +1,47 @@
+{
+  "slug": "tipitaka--sutta",
+  "originalPath": "tipitaka/sutta.html",
+  "urlPath": "/tipitaka/sutta",
+  "type": "sutta",
+  "title": "Sutta Pitaka",
+  "subtitle": "The Basket of Suttas",
+  "subtitle2": "",
+  "pageTitle": "Sutta Pitaka: The Basket of Suttas",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n\n<p>The Sutta Pitaka, the second division of the <a href=\"/tipitaka\">Tipitaka</a>, consists of more than 10,000 suttas (discourses) delivered by the Buddha and his close disciples during and shortly after the Buddha's forty-five year teaching career, as well as many additional verses by other members of the Sangha. More than one thousand sutta translations are available on this website.</p>\n<p>The suttas are grouped into five <i>nikayas,</i> or collections:</p>\n<dl>\n<dt><a href=\"/tipitaka/dn\" id=\"digha\">Digha Nikaya</a></dt>\n\t<dd>The \"Long\" Discourses (Pali <i>digha</i> = \"long\") consists of 34 suttas, including the longest ones in the Canon. The subject matter of these suttas ranges widely, from colorful folkloric accounts of the beings inhabiting the deva worlds (<a href=\"/tipitaka/dn/dn.20.0.than\">DN 20</a>) to down-to-earth practical meditation instructions (<a href=\"/tipitaka/dn/dn.22.0.than\">DN 22</a>), and everything in between. Recent scholarship suggests that a distinguishing trait of the Digha Nikaya may be that it was \"intended for the purpose of propaganda, to attract converts to the new religion.\" <a class=\"noteTag\" href=\"#fn-1\" id=\"fnt-1\">[1]</a></dd>\n<dt><a href=\"/tipitaka/mn\" id=\"majjhima\">Majjhima Nikaya</a></dt>\n\t<dd>The \"Middle-length\" Discourses (Pali <i>majjhima</i> = \"middle\") consists of 152 suttas of varying length. These range from some of the most profound and difficult suttas in the Canon (e.g., <a href=\"/tipitaka/mn/mn.001.than\">MN 1</a>) to engaging stories full of human pathos and drama that illustrate important principles of the law of kamma (e.g., <a href=\"/tipitaka/mn/mn.057.nymo\">MN 57</a>, <a href=\"/tipitaka/mn/mn.086.than\">MN 86</a>).</dd>\n<dt><a href=\"/tipitaka/sn\" id=\"samyutta\">Samyutta Nikaya</a></dt>\n\t<dd>The \"Grouped\" Discourses (Pali <i>samyutta</i> = \"group\" or \"collection\") consists of 2,889 relatively short suttas grouped together by theme into 56 <i>samyuttas.</i></dd>\n<dt><a href=\"/tipitaka/an\" id=\"anguttara\">Anguttara Nikaya</a></dt>\n\t<dd>The \"Further-factored\" Discourses (Pali <i>anga</i> = \"factor\" + <i>uttara</i> = \"beyond,\" \"further\") consists of several thousand short suttas, grouped together into eleven <i>nipatas</i> according to the number of items of Dhamma covered in each sutta. For example, the <i>Eka-nipata</i> (\"Book of the Ones\") contains suttas about a single item of Dhamma; the <i>Duka-nipata</i> (\"Book of the Twos\") contains suttas dealing with two items of Dhamma, and so on.</dd>\n<dt><a href=\"/tipitaka/kn\" id=\"khuddaka\">Khuddaka Nikaya</a></dt>\n\t<dd><p>The \"Division of Short Books\" (Pali <i>khudda</i> = \"smaller,\" \"lesser\"), consisting of fifteen books (eighteen in the Burmese edition):</p>\n\t\t<ol>\n\t\t<li><a href=\"/tipitaka/kn/khp\">Khuddakapatha</a> — The Short Passages</li>\n\t\t<li><a href=\"/tipitaka/kn/dhp\">Dhammapada</a> — The Path of Dhamma</li>\n\t\t<li><a href=\"/tipitaka/kn/ud\">Udana</a> — Exclamations</li>\n\t\t<li><a href=\"/tipitaka/kn/iti/iti.intro.than\">Itivuttaka</a> — The Thus-saids</li>\n\t\t<li><a href=\"/tipitaka/kn/snp\">Sutta Nipata</a> — The Sutta Collection</li>\n\t\t<li><a href=\"/tipitaka/kn/vv\">Vimanavatthu</a> — Stories of the Celestial Mansions</li>\n\t\t<li><a href=\"/tipitaka/kn/pv\">Petavatthu</a> — Stories of the Hungry Ghosts</li>\n\t\t<li><a href=\"/tipitaka/kn/thag\">Theragatha</a> — Verses of the Elder Monks</li>\n\t\t<li><a href=\"/tipitaka/kn/thig\">Therigatha</a> — Verses of the Elder Nuns</li>\n\t\t<li>Jataka — Birth Stories</li>\n\t\t<li>Niddesa — Exposition</li>\n\t\t<li>Patisambhidamagga — Path of Discrimination</li>\n\t\t<li>Apadana — Stories</li>\n\t\t<li>Buddhavamsa — History of the Buddhas</li>\n\t\t<li>Cariyapitaka — Basket of Conduct</li>\n\t\t<li>Nettippakarana <small>(Burmese Tipitaka only)</small></li>\n\t\t<li>Petakopadesa <small>(Burmese Tipitaka only)</small></li>\n\t\t<li><a href=\"/tipitaka/kn/miln\">Milindapañha</a> — Questions of Milinda <small>(Burmese Tipitaka only)</small></li>\n\t</ol>\n</dd>\n</dl>\n\n<div class=\"notes\">\n<h1>Notes</h1>\n<dl>\n<dt><a href=\"#fnt-1\" id=\"fn-1\">1</a>.</dt>\n\t<dd>Bhikkhu Bodhi, <i>Connected Discourses of the Buddha</i> (Somerville, Mass.: Wisdom Publications, 2000), p.31, referring to Joy Manné's \"Categories of Sutta in the Pali Nikayas and Their Implications for Our Appreciation of the Buddhist Teaching and Literature,\" <i>Journal of the Pali Text Society</i> 15 (1990): 29-87.\t</dd>\n</dl>\n</div>\n\n<div class=\"seeAlso\">\n\t<p>See also: \"<a href=\"/befriending\">Befriending the Suttas: Tips on Reading the Pali Discourses</a>\"</p>\n</div>\n</div>\n\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Sutta Pitaka: The Basket of Suttas\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    }
+  ],
+  "section": "tipitaka"
+}

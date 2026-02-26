@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--kn--vv--index",
+  "originalPath": "tipitaka/kn/vv/index.html",
+  "urlPath": "/tipitaka/kn/vv",
+  "type": "sutta",
+  "title": "Vimanavatthu",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Vimanavatthu",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<div class=\"excerpt\">\n<p>The <i>Vimanavatthu</i> of the Khuddaka Nikaya is a collection of 83 stories in verse describing the <i>vimana [vimaana]</i>  — a kind of personal heavenly mansion — inhabited by beings reborn as gods or goddesses (<i>devata [devataa]</i>) as a reward for meritorious deeds performed by them as human beings. All the stories follow a similar pattern. They begin with an introductory verse (or verses) in which the god or goddess is asked about the cause for his or her rebirth within that particular mansion. The deva thereupon relates his or her previous good deeds.</p>\n<p class=\"cite\">— John D. Ireland, in <i><a href=\"/authors/ireland/wheel417\">Vangisa: An Early Buddhist Poet</a></i></p>\n</div>\n<h1>Selected suttas</h1>\n<p>In the passages listed below the translator appears in the square brackets [].</p>\n<ul class=\"suttaList\">\n\t\n<!-- html_sutta_summary.inc.php -->\n\n<li><a id=\"vv.1.16.irel\"></a><span class=\"sutta_title\"><a href=\"/tipitaka/kn/vv/vv.1.16.irel\" title=\"Translated by John D. Ireland\">Vv 1.16: Sirima — Sirima's Mansion</a></span>\n\t<span class=\"sutta_ref\">{<a href=\"/tipitaka/sltp/Vv_utf8#v.136\" title=\"Read the Pali source\" target=\"pali\">Vv 136-148</a>}</span>\n\t<span class=\"sutta_trans\">[<a href=\"/tipitaka/kn/vv/vv.1.16.irel\" title=\"Translated by John D. Ireland\">Ireland</a>].</span>\n\t<div class=\"sutta_summary\">The deva Sirima, an entertainer in her previous human birth, explains to Ven. Vangisa how she learned the Dhamma and became a stream-enterer. </div>\n</li>\n\t\n<!-- html_sutta_summary.inc.php -->\n\n<li><a id=\"vv.3.07.irel\"></a><span class=\"sutta_title\"><a href=\"/tipitaka/kn/vv/vv.3.07.irel\" title=\"Translated by John D. Ireland\">Vv 3.7: Sesavati — Sesavati's Mansion</a></span>\n\t<span class=\"sutta_ref\">{<a href=\"/tipitaka/sltp/Vv_utf8#v.647\" title=\"Read the Pali source\" target=\"pali\">Vv 647-658</a>}</span>\n\t<span class=\"sutta_trans\">[<a href=\"/tipitaka/kn/vv/vv.3.07.irel\" title=\"Translated by John D. Ireland\">Ireland</a>].</span>\n\t<div class=\"sutta_summary\">The deva Sesavati tells Ven. Vangisa how paying her respects to Ven. Sariputta in her previous life was enough to ensure rebirth in a glorious deva realm. This is an example of early Buddhist poetry with a purely devotional message. </div>\n</li>\n</ul>\n\n</div>\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Vimanavatthu\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Khuddaka Nikaya",
+      "href": "/tipitaka/kn"
+    }
+  ],
+  "section": "tipitaka"
+}

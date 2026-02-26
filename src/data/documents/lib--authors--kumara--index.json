@@ -1,0 +1,47 @@
+{
+  "slug": "lib--authors--kumara--index",
+  "originalPath": "lib/authors/kumara/index.html",
+  "urlPath": "/authors/kumara",
+  "type": "article",
+  "title": "Kumara Bhikkhu",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Kumara Bhikkhu",
+  "author": "",
+  "authorShortname": "Kumara",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><dl class=\"bookList\">\n\t\n<!-- html_article_summary.inc.php -->\n\n<dt><a id=\"samyutta_number_conversion_table\" title=\"[Not available in HTML]\">Saṁyutta Index &amp; Reference Number Conversion Table</a>, \n<span class=\"by\">by  Kumara Bhikkhu</span>\n<span class=\"filedata\">(2012; 1p./34KB)</span>\n<a class=\"imgLink\" href=\"./samyutta_number_conversion_table.pdf\" title=\"Get the pdf version (1p./34KB)\"><img src=\"/img/pdf_24x18.gif\" alt=\"[PDF icon]\" height=\"16\"></a>  </dt>\n<dd>A table for easy conversion between traditional (DPR, CSCD) and modern (ATI, CDB) numbering systems of the Samyutta Nikaya.  [Not available in HTML] </dd>\n\n</dl>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "UNKNOWN",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "You may copy, reformat, reprint, republish, and redistribute this work in any medium whatsoever, provided that: (1) you only make such copies, etc. available <em>free of charge</em>; (2) you clearly indicate that any derivatives of this work (including translations) are derived from this source document; and (3) you include the full text of this license in any copies or derivatives of this work. Otherwise, all rights reserved. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2010",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Authors",
+      "href": "/authors"
+    }
+  ],
+  "section": "authors"
+}

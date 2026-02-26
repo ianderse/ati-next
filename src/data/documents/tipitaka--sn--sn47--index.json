@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--sn--sn47--index",
+  "originalPath": "tipitaka/sn/sn47/index.html",
+  "urlPath": "/tipitaka/sn/sn47",
+  "type": "sutta",
+  "title": "Redirect",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Redirect",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<html><head></head><body></body></html>",
+  "summary": "",
+  "extent": "",
+  "license": "UNKNOWN",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Samyutta Nikaya",
+      "href": "/tipitaka/sn"
+    }
+  ],
+  "section": "tipitaka"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "lib--authors--story--index",
+  "originalPath": "lib/authors/story/index.html",
+  "urlPath": "/authors/story",
+  "type": "article",
+  "title": "Francis Story",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Francis Story",
+  "author": "",
+  "authorShortname": "Story",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><dl class=\"bookList\">\n\t\n<!-- html_article_summary.inc.php -->\n\n<dt><a href=\"/authors/story/bl015\" id=\"bl015\">Buddhist Meditation</a>, \n<span class=\"by\">by  Francis Story,   (The Anagarika Sugatananda)</span>\n<span class=\"filedata\">(1995; 10pp./30KB)</span>\n  </dt>\n<dd>An outline of the various forms of meditation found in Theravada Buddhism, and of their role in Buddhist practice. </dd>\n\n    </dl>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Francis Story\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Authors",
+      "href": "/authors"
+    }
+  ],
+  "section": "authors"
+}

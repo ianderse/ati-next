@@ -1,0 +1,55 @@
+{
+  "slug": "ptf--dhamma--sila--uposatha2013",
+  "originalPath": "ptf/dhamma/sila/uposatha2013.html",
+  "urlPath": "/guides/dhamma/sila/uposatha2013",
+  "type": "guide",
+  "title": "2013 Calendar of Uposatha Days",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "2013 Calendar of Uposatha Days",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><p>Here are this year's dates of <a href=\"/guides/dhamma/sila/uposatha\">Uposatha days</a> as observed in Thai Buddhism (Dhammayut and Mahānikai sects). This calendar follows the Dhammayut calculation—which, for the days marked with an asterisk, is one day later than the Mahānikai. <a class=\"noteTag\" href=\"#fn-1\" id=\"fnt-1\" title=\"Dates provided by Metta Forest Monastery.\">[1]</a></p>\n\n<table class=\"ZZ_uCalendar\">\n<tbody><tr>\n\t<th style=\"background-color:white\">&nbsp;</th>\n\t<th><img src=\"/img/MoonLastQuarter_36x36.gif\" width=\"36\" height=\"36\" alt=\"Last quarter moon\" title=\"Last quarter moon\">\n\t\t<p>last quarter</p></th>\n\t<th><img src=\"/img/MoonNew_36x36.gif\" width=\"36\" height=\"36\" alt=\"New moon\" title=\"New moon\">\n\t\t<p>new moon</p></th>\n\t<th><img src=\"/img/MoonFirstQuarter_36x36.gif\" width=\"36\" height=\"36\" alt=\"First quarter moon\" title=\"First quarter moon\">\n\t\t<p>first quarter</p></th>\n\t<th><img src=\"/img/MoonFull_36x36.gif\" width=\"36\" height=\"36\" alt=\"Full moon\" title=\"Full moon\">\n\t\t<p>full moon</p></th>\n\t<th><img src=\"/img/MoonLastQuarter_36x36.gif\" width=\"36\" height=\"36\" alt=\"Last quarter moon\" title=\"Last quarter moon\">\n\t<p>last quarter</p></th>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>January</b></td>\n\t<td>5</td>\n\t<td>11</td>\n\t<td>19</td>\n\t<td>26</td>\n\t<td class=\"ZZ_skip\">-</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>February</b></td>\n\t<td>3</td>\n\t<td>10</td>\n\t<td>18</td>\n\t<td class=\"ZZ_pujaDay\"><a id=\"m-cal\">25</a><br><small><a href=\"/guides/dhamma/sila/uposatha#magha\">Māgha Pūjā</a></small></td>\n\t<td class=\"ZZ_skip\">-</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>March</b></td>\n\t<td>5</td>\n\t<td>11</td>\n\t<td>19</td>\n\t<td>26</td>\n\t<td class=\"ZZ_skip\">-</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>April</b></td>\n\t<td>3</td>\n\t<td>10</td>\n\t<td>18</td>\n\t<td>25</td>\n\t<td class=\"ZZ_skip\">-</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>May</b></td>\n\t<td>3</td>\n\t<td>9</td>\n\t<td>17</td>\n\t<td class=\"ZZ_pujaDay\"><a id=\"v-cal\">24</a><br><small><a href=\"/guides/dhamma/sila/uposatha#visakha\">Visākha Pūjā</a></small></td>\n\t<td class=\"ZZ_skip\">-</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>June</b></td>\n\t<td>1</td>\n\t<td>8</td>\n\t<td>16</td>\n\t<td>23</td>\n\t<td class=\"ZZ_skip\">-</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>July</b></td>\n\t<td>1</td>\n\t<td>8*</td>\n\t<td>16*</td>\n\t<td class=\"ZZ_pujaDay\"><a id=\"as-cal\">22</a><br><small><a href=\"/guides/dhamma/sila/uposatha#asalha\">Āsaḷha Pūjā</a></small></td>\n\t<td>30</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>August</b></td>\n\t<td class=\"ZZ_skip\">-</td>\n\t<td>6</td>\n\t<td>14</td>\n\t<td>21</td>\n\t<td>29</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\" style=\"padding-left:1em\"><b>September</b></td>\n\t<td class=\"ZZ_skip\">-</td>\n\t<td>5*</td>\n\t<td>13*</td>\n\t<td>19</td>\n\t<td>27</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>October</b></td>\n\t<td class=\"ZZ_skip\">-</td>\n\t<td>4</td>\n\t<td>12</td>\n\t<td class=\"ZZ_pujaDay\"><a id=\"p-cal\">19</a><br><small><a href=\"/guides/dhamma/sila/uposatha#pavarana\">Pavāraṇā Day</a></small></td>\n\t<td>27</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>November</b></td>\n\t<td class=\"ZZ_skip\">-</td>\n\t<td>3*</td>\n\t<td>11*</td>\n\t<td class=\"ZZ_pujaDay\"><a id=\"an-cal\">17</a><br><small><a href=\"/guides/dhamma/sila/uposatha#anapanasati\">Ānāpānasati Day</a></small></td>\n\t<td>25</td>\n</tr>\n<tr>\n\t<td class=\"ZZ_uMonth\"><b>December</b></td>\n\t<td class=\"ZZ_skip\">-</td>\n\t<td>2</td>\n\t<td>10</td>\n\t<td>17</td>\n\t<td>25</td>\n</tr>\n</tbody></table>\n\n<div class=\"notes\">\n<h1>Notes</h1>\n<dl>\n<dt><a href=\"#fnt-1\" id=\"fn-1\">1</a>.</dt>\n\t\t<dd>Dates provided by <a href=\"/sources#metta\">Metta Forest Monastery</a>.</dd>\n</dl>\n<!-- \n<p>For an astronomical calendar of lunar phases, see <a href='http://www.calendar-365.com/moon/moon-calendar.html' title='Visit www.calendar-365.com' class='offsite' target='offsite' >Calendar-365.com</a>.</p>\n -->\n</div>\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"2013 Calendar of Uposatha Days\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2013",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Guides",
+      "href": "/guides"
+    },
+    {
+      "label": "dhamma",
+      "href": "/guides/dhamma"
+    },
+    {
+      "label": "sila",
+      "href": "/guides/dhamma/sila"
+    }
+  ],
+  "section": "guides"
+}

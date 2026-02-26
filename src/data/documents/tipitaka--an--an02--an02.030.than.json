@@ -1,0 +1,55 @@
+{
+  "slug": "tipitaka--an--an02--an02.030.than",
+  "originalPath": "tipitaka/an/an02/an02.030.than.html",
+  "urlPath": "/tipitaka/an/an02/an02.030.than",
+  "type": "sutta",
+  "title": "Vijja-bhagiya Sutta",
+  "subtitle": "A Share in Clear Knowing",
+  "subtitle2": "",
+  "pageTitle": "Vijja-bhagiya Sutta: A Share in Clear Knowing",
+  "author": "Thanissaro Bhikkhu",
+  "authorShortname": "Thanissaro",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "Thanissaro Bhikkhu",
+  "nikaya": "Anguttara",
+  "nikayaAbbrev": "AN",
+  "number": "30",
+  "ptsId": "A i 61",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<!--\njtb 020511: The first 3 paragraphs of this sutta were originally listed here as AN 2.29 (Vijja-bhagiya S.), with the last line (\"Defiled by passion...\") as its own sutta, listed as AN 2.30 (Vimutti S.) (AG's translation was based on the Thai Tipitaka, which differs from PTS and BJT here and there). So now they are merged into one, per PTS.\n-->\n<p>\"These two qualities have a share in clear knowing. Which two? Tranquillity <i>(samatha)</i> &amp; insight <i>(vipassana).</i></p>\n<p>\"When tranquillity is developed, what purpose does it serve? The mind is developed. And when the mind is developed, what purpose does it serve? Passion is abandoned.</p>\n<p>\"When insight is developed, what purpose does it serve? Discernment is developed. And when discernment is developed, what purpose does it serve? Ignorance is abandoned.</p>\n<p>\"Defiled by passion, the mind is not released. Defiled by ignorance, discernment does not develop. Thus from the fading of passion is there awareness-release. From the fading of ignorance is there discernment-release.\"</p>\n<!--\njtb 020511: AG originally had the preceding line as a separate sutta (\"Vimutti Sutta ~~ Release\"), but PTS and BJT have it as part of the Vijja-bhagiya (II, iii,10).\n-->\n</div>\n\n<div class=\"seeAlso\">\n<p>See also: <a href=\"/tipitaka/an/an09/an09.043.than\">AN 9.43</a>; <a href=\"/tipitaka/an/an09/an09.044.than\">AN 9.44</a>; <a href=\"/tipitaka/an/an09/an09.045.than\">AN 9.45</a>; <a href=\"/tipitaka/sn/sn12/sn12.070.than\">SN 12.70</a>.</p>\n</div>\n\n</body></html>",
+  "summary": "How tranquillity <i>(samatha)</i> and insight <i>(vipassana)</i> function together to uproot passion and ignorance.",
+  "extent": "complete",
+  "license": "CC-BY-NC",
+  "copyrightOwner": "Thanissaro Bhikkhu",
+  "copyrightYear": "1998",
+  "derivedLicenseHtml": "The text of this page (\"Vijja-bhagiya Sutta: A Share in Clear Knowing\", by Thanissaro Bhikkhu) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by-nc/4.0/\">http://creativecommons.org/licenses/by-nc/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-nc-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "1998",
+  "source": "Transcribed from a file provided by the translator.",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Anguttara Nikaya",
+      "href": "/tipitaka/an"
+    },
+    {
+      "label": "an02",
+      "href": "/tipitaka/an/an02"
+    }
+  ],
+  "section": "tipitaka"
+}

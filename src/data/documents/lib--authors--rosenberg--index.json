@@ -1,0 +1,53 @@
+{
+  "slug": "lib--authors--rosenberg--index",
+  "originalPath": "lib/authors/rosenberg/index.html",
+  "urlPath": "/authors/rosenberg",
+  "type": "article",
+  "title": "Larry Rosenberg",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Larry Rosenberg",
+  "author": "",
+  "authorShortname": "Rosenberg",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><dl class=\"bookList\">\n\t\n<!-- html_article_summary.inc.php -->\n\n<dt><a href=\"/authors/rosenberg/righttoask\" id=\"righttoask\">The Right to Ask Questions</a>, \n<span class=\"by\">by  Larry Rosenberg</span>\n<span class=\"filedata\">(2006; 4pp./13KB)</span>\n  </dt>\n<dd>Should we take the Buddha at his word? In this Dhamma talk the author explores the Buddha's admonition to put the Dhamma to the test in your own life, to challenge yourself to choose your actions with care and to learn from their results. \"If you want to gain any real benefit from [these teachings]\", says the author, \"you have to let them stretch your own lived experience.\" </dd>\n\n    </dl>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Larry Rosenberg\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [
+    {
+      "type": "audio",
+      "url": "index-readers.html#lros\nListen to suttas selected and read aloud by this author",
+      "label": "Listen at SuttaReadings.net"
+    }
+  ],
+  "atiYear": "2006",
+  "source": "This anthology prepared by jtb for Access to Insight.",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Authors",
+      "href": "/authors"
+    }
+  ],
+  "section": "authors"
+}

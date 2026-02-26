@@ -1,0 +1,61 @@
+{
+  "slug": "tipitaka--sn--sn56--sn56.031.than",
+  "originalPath": "tipitaka/sn/sn56/sn56.031.than.html",
+  "urlPath": "/tipitaka/sn/sn56/sn56.031.than",
+  "type": "sutta",
+  "title": "Simsapa Sutta",
+  "subtitle": "The Simsapa Leaves",
+  "subtitle2": "",
+  "pageTitle": "Simsapa Sutta: The Simsapa Leaves",
+  "author": "Thanissaro Bhikkhu",
+  "authorShortname": "Thanissaro",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "Thanissaro Bhikkhu",
+  "nikaya": "Samyutta",
+  "nikayaAbbrev": "SN",
+  "number": "31",
+  "ptsId": "S v 437",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<p>Once the Blessed One was staying at <a id=\"kosambi\">Kosambi</a> in the <a id=\"simsapa\">simsapa</a><a class=\"noteTag\" href=\"#fn-1\" id=\"fnt-1\">[1]</a> forest. Then, picking up a few simsapa leaves with his hand, he asked the monks, \"What do you think, monks: Which are more numerous, the few simsapa leaves in my hand or those overhead in the simsapa forest?\"</p>\n<p>\"The leaves in the hand of the Blessed One are few in number, lord. Those overhead in the simsapa forest are more numerous.\"</p>\n<p>\"In the same way, monks, those things that I have known with direct knowledge but have not taught are far more numerous [than what I have taught]. And why haven't I taught them? Because they are not connected with the goal, do not relate to the rudiments of the holy life, and do not lead to disenchantment, to dispassion, to cessation, to calm, to direct knowledge, to self-awakening, to Unbinding. That is why I have not taught them.</p>\n<p>\"And what have I taught? 'This is stress... This is the origination of stress... This is the cessation of stress... This is the path of practice leading to the cessation of stress': This is what I have taught. And why have I taught these things? Because they are connected with the goal, relate to the rudiments of the holy life, and lead to disenchantment, to dispassion, to cessation, to calm, to direct knowledge, to self-awakening, to Unbinding. This is why I have taught them.</p>\n<p>\"Therefore your duty is the contemplation, 'This is stress... This is the origination of stress... This is the cessation of stress.' Your duty is the contemplation, 'This is the path of practice leading to the cessation of stress.'\"</p>\n\n<div class=\"notes\">\n<h1>Note</h1>\n<dl>\n<dt><a href=\"#fnt-1\" id=\"fn-1\">1</a>.</dt>\n\t<dd>The <a href=\"http://iu.ff.cuni.cz/pandanus/database/details.php?plantno=800071&amp;amp;enc=utf&amp;amp;sort=ka&amp;amp;display=50&amp;amp;reswind=this&amp;amp;lat=&amp;amp;skt=on&amp;amp;pkt=&amp;amp;tam=&amp;amp;start=100\" title=\"Visit iu.ff.cuni.cz\" class=\"offsite\" target=\"offsite\">Pandanus Database of Plants</a> identifies the <i>simsapa</i> tree as <i>Dalbergia sisoo Roxb.</i> (\"Indian rosewood\"). <small>[Thanks to Alexandra Parker (2008) for tracking this down.]</small>\n\t<p style=\"text-align:center\"><img style=\"border:1px solid #ccc;\" src=\"/img/413px-Dalbergia_sissoo_Bra24.png\" alt=\"Simsapa leaves\" width=\"413\" height=\"599\"><br>\n\t<span style=\"font-size:smaller;font-style:italic;\">This image is in the public domain and appears here courtesy of <a href=\"http://commons.wikimedia.org/wiki/File:Dalbergia_sissoo_Bra24.png\" title=\"Visit commons.wikimedia.org\" class=\"offsite\" target=\"offsite\">Wikimedia</a>.</span>\n\t</p>\n\t</dd>\n</dl>\n<!-- The article \"Dalbergias in <i>Hortus malabaricus</i>\" (Thothathri and Nair, Taxon 30(1):43-47, February 1981) mentions the naming authority for this species as \"Nimmo 1839\". Thus the full botanical name of the simsapa tree would be: <i>Dalbergia sympathetica</i> Nimmo 1839. [Thanks to Tom Phelan (2007) for tracking this down. If anyone has a photo of this tree or its leaves, I'd be delighted to post it here. &mdash; <a href=\"../../../faq.html#contact\">ATI ed</a>.] -->\n</div>\n</div>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY-NC",
+  "copyrightOwner": "Thanissaro Bhikkhu",
+  "copyrightYear": "1997",
+  "derivedLicenseHtml": "The text of this page (\"Simsapa Sutta: The Simsapa Leaves\", by Thanissaro Bhikkhu) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by-nc/4.0/\">http://creativecommons.org/licenses/by-nc/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-nc-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [
+    {
+      "type": "audio",
+      "url": "index.html#sn56.031",
+      "label": "Listen at SuttaReadings.net"
+    }
+  ],
+  "atiYear": "1997",
+  "source": "Transcribed from a file provided by the translator.",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Samyutta Nikaya",
+      "href": "/tipitaka/sn"
+    },
+    {
+      "label": "sn56",
+      "href": "/tipitaka/sn/sn56"
+    }
+  ],
+  "section": "tipitaka"
+}

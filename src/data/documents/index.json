@@ -1,0 +1,43 @@
+{
+  "slug": "index",
+  "originalPath": "index.html",
+  "urlPath": "/index",
+  "type": "index",
+  "title": "Access to Insight",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Access to Insight",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<html><head></head><body><dl>\n\t\t\t<dt><a href=\"/begin\" title=\"Suggested entry points to this website\">Beginnings</a>:</dt>\n\t\t\t<dd><a title=\"A concise introduction\" href=\"/theravada\">What is Theravada Buddhism?</a>\n\t\t\t/ <a title=\"How to read the suttas\" href=\"/befriending\">Befriending the suttas</a>\n\t\t\t/ <a href=\"/guides\" title=\"A self-guided tour of the Buddha's teachings\">Self-guided tour of the Buddha's teachings</a></dd>\n\t\t\t \n\t\t\t<dt><a href=\"/tipitaka\" title=\"An outline of the Pali canon\">Tipitaka</a>:</dt>\n\t\t\t<dd>Modern translations of more than 1,000 important suttas from the Pali canon, indexed by <a href=\"/index-sutta\">sutta</a>, \n\t\t\t<a href=\"/index-subject\">subject</a>, \n\t\t\t<a href=\"/index-names\">proper name</a>, \n\t\t\t<a href=\"/index-similes\">simile</a>, \n\t\t\t<a href=\"/tipitaka/translators\">translator</a>\n\t\t\t/ <a href=\"/tipitaka/dn\">DN</a>  \n\t\t\t/ <a href=\"/tipitaka/mn\">MN</a> \n\t\t\t/ <a href=\"/tipitaka/sn\">SN</a> \n\t\t\t/ <a href=\"/tipitaka/an\">AN</a> \n\t\t\t/ <a href=\"/tipitaka/kn\">KN</a> \n\t\t\t</dd>\n \n\t\t\t<dt><a href=\"/authors\" title=\"A Theravada library\">Library</a>:</dt>\n\t\t\t<dd><a href=\"/authors\">Authors</a>\n\t\t\t/ <a href=\"/authors/thai\">Thai forest traditions</a>\n\t\t\t/ <a href=\"/study\">Study guides</a>\n\t\t\t/ <a href=\"/authors/bpslist\">BPS</a>\n\t\t\t/ Indexes by <a href=\"/index-author\">author</a>, <a href=\"/index-title\">title</a>, and <a href=\"/index-subject\">subject</a>\n\t\t\t/ <a href=\"/authors/list-pdf\" title=\"PDF books\"><img src=\"/img/pdf_24x18.gif\" alt=\"[pdf icon]\"></a> \n\t\t\t/ <a href=\"/sources\">Sources</a>\n\t\t\t/ <a href=\"/news/old\">Old news</a>\n\t\t\t</dd>\n\n\t\t<dt><a href=\"/help\" title=\"Tools to help you find what you're looking for\">Help</a>:</dt>\n\t\t\t<dd>\n\t\t\t<a href=\"/index-subject\">Index</a>\n\t\t\t/ <a href=\"/faq\">FAQ</a>\n\t\t\t/ <a href=\"/glossary\">Glossary</a> \n\t\t\t/ <a href=\"/help#map\">Site map</a>\n\t\t\t/ <a href=\"/tech/download/bulk\">Download the whole website</a>\n\t\t\t</dd>\n\t\t</dl>\n\t\n\n\n\n </body></html>",
+  "summary": "",
+  "extent": "",
+  "license": "UNKNOWN",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    }
+  ],
+  "section": "root"
+}

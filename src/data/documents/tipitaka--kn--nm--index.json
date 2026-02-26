@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--kn--nm--index",
+  "originalPath": "tipitaka/kn/nm/index.html",
+  "urlPath": "/tipitaka/kn/nm",
+  "type": "sutta",
+  "title": "Mahaniddesa",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Mahaniddesa",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<p>The Mahaniddesa, the first part of the Niddesa of the Khuddaka Nikaya, is a commentary, attributed to Ven. Sariputta, on the <a href=\"/tipitaka/kn/snp#atthakavagga\">Atthakavagga</a> of the Sutta Nipata.</p>\n<p>The translator appears in the square brackets [].</p>\n\n<h1>Selected Suttas</h1>\n<ul class=\"suttaList\">\n\t\n<!-- html_sutta_summary.inc.php -->\n\n<li><a id=\"nm.2.04.olen\"></a><span class=\"sutta_title\"><a href=\"/tipitaka/kn/nm/nm.2.04.olen\" title=\"Translated by Andrew Olendzki\">Nm 2.4: Guhatthaka-suttaniddeso — Upon the Tip of a Needle</a></span>\n\t<span class=\"sutta_ref\">{<a href=\"/tipitaka/sltp/Nidd_I_utf8#pts.042\" title=\"Read the Pali source\" target=\"pali\">Nd i 42</a>}</span>\n\t<span class=\"sutta_trans\">[<a href=\"/tipitaka/kn/nm/nm.2.04.olen\" title=\"Translated by Andrew Olendzki\">Olendzki</a>].</span>\n\t<div class=\"sutta_summary\">In a series of verses of stunning simplicity and elegance, Sariputta describes the fleeting evanescence of the present moment. </div>\n</li>\n</ul>\n</div>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Mahaniddesa\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Khuddaka Nikaya",
+      "href": "/tipitaka/kn"
+    }
+  ],
+  "section": "tipitaka"
+}

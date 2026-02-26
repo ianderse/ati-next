@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--kn--miln--index",
+  "originalPath": "tipitaka/kn/miln/index.html",
+  "urlPath": "/tipitaka/kn/miln",
+  "type": "sutta",
+  "title": "Milindapañha",
+  "subtitle": "The Questions of King Milinda",
+  "subtitle2": "",
+  "pageTitle": "Milindapañha: The Questions of King Milinda",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<h1>Contents</h1>\n<dl class=\"suttaList\">\n\n<dt>Introduction</dt>\n\t<dd>[ <a href=\"/tipitaka/kn/miln/miln.intro.kell\" id=\"miln.intro.kell\">Kelly</a> ]</dd>\n<dt>II. The Distinguishing Marks <span class=\"altID\">{<a href=\"/tipitaka/sltp/Mil_utf8#pts.025\" title=\"Read the Pali source\" target=\"pali\">Miln 25-64</a>}</span></dt>\n\t<dd>[ <a href=\"/tipitaka/kn/miln/miln.2x.kell\" id=\"miln.2x.kell\">Kelly</a> (excerpts) ]</dd>\n<dt>III. Questions for the Cutting Off of Perplexity <span class=\"altID\">{<a href=\"/tipitaka/sltp/Mil_utf8#pts.065\" title=\"Read the Pali source\" target=\"pali\">Miln 65-89</a>}</span></dt>\n\t<dd>[ <a href=\"/tipitaka/kn/miln/miln.3x.kell\" id=\"miln.3x.kell\">Kelly</a> (excerpts) ]</dd>\n<dt>IV. Questions on Dilemmas <span class=\"altID\">{<a href=\"/tipitaka/sltp/Mil_utf8#pts.090\" title=\"Read the Pali source\" target=\"pali\">Miln 90-328</a>}</span></dt>\n\t<dd>[ no translations available here ]</dd>\n<dt>V. A Question Solved By Inference <span class=\"altID\">{<a href=\"/tipitaka/sltp/Mil_utf8#pts.329\" title=\"Read the Pali source\" target=\"pali\">Miln 329-347</a>}</span></dt>\n\t<dd>[ <a href=\"/tipitaka/kn/miln/miln.5x.horn\" id=\"miln.5x.horn\">Horner</a> (abridged) | <a href=\"/tipitaka/kn/miln/miln.5x.olen\" id=\"miln.5x.olen\">Olendzki</a> (excerpt) ]</dd>\n<dt>VI. The Special Qualities of Asceticism <span class=\"altID\">{<a href=\"/tipitaka/sltp/Mil_utf8#pts.348\" title=\"Read the Pali source\" target=\"pali\">Miln 348-362</a>}</span></dt>\n\t<dd>[ no translations available here ]</dd>\n<dt>VII. Questions on Talk of Similes <span class=\"altID\">{<a href=\"/tipitaka/sltp/Mil_utf8#pts.363\" title=\"Read the Pali source\" target=\"pali\">Miln 363-420</a>}</span></dt>\n\t<dd>[ no translations available here ]</dd>\n</dl>\n\n</div>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Milindapañha: The Questions of King Milinda\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Khuddaka Nikaya",
+      "href": "/tipitaka/kn"
+    }
+  ],
+  "section": "tipitaka"
+}

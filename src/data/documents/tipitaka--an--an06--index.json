@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--an--an06--index",
+  "originalPath": "tipitaka/an/an06/index.html",
+  "urlPath": "/tipitaka/an/an06",
+  "type": "sutta",
+  "title": "Redirect",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Redirect",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<html><head></head><body></body></html>",
+  "summary": "",
+  "extent": "",
+  "license": "UNKNOWN",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Anguttara Nikaya",
+      "href": "/tipitaka/an"
+    }
+  ],
+  "section": "tipitaka"
+}

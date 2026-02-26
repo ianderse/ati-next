@@ -1,0 +1,55 @@
+{
+  "slug": "tipitaka--sn--sn45--sn45.165.wlsh",
+  "originalPath": "tipitaka/sn/sn45/sn45.165.wlsh.html",
+  "urlPath": "/tipitaka/sn/sn45/sn45.165.wlsh",
+  "type": "sutta",
+  "title": "Dukkhata Sutta",
+  "subtitle": "Suffering",
+  "subtitle2": "",
+  "pageTitle": "Dukkhata Sutta: Suffering",
+  "author": "Maurice O'Connell Walshe",
+  "authorShortname": "Walshe",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "Maurice O'Connell Walshe",
+  "nikaya": "Samyutta",
+  "nikayaAbbrev": "SN",
+  "number": "165",
+  "ptsId": "S v 56",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n\n<p>\"Monks, there are these three kinds of suffering.<a class=\"noteTag\" href=\"#fn-1\" id=\"fnt-1\">[1]</a> What three? Suffering caused by pain,<a class=\"noteTag\" href=\"#fn-2\" id=\"fnt-2\">[2]</a> suffering caused by the formations (or conditioned existence),<a class=\"noteTag\" href=\"#fn-3\" id=\"fnt-3\">[3]</a> suffering due to change.<a class=\"noteTag\" href=\"#fn-4\" id=\"fnt-4\">[4]</a> It is for the full comprehension, clear understanding, ending and abandonment of these three forms of suffering that the Noble Eightfold Path is to be cultivated...\"</p>\n\n\n<div class=\"notes\">\n<h1>Notes</h1>\n<dl>\n<dt><a href=\"#fnt-1\" id=\"fn-1\">1.</a></dt>\n\t<dd><i>Dukkhataa</i>, an abstract noun denoting \"suffering\" in the most general sense.</dd>\n\n<dt><a href=\"#fnt-2\" id=\"fn-2\">2.</a></dt>\n\t<dd><i>Dukkha-dukkhataa</i>, the actual feeling of physical or mental pain or anguish.</dd>\n\n<dt><a href=\"#fnt-3\" id=\"fn-3\">3.</a></dt>\n\t<dd><i>Sankhaara-dukkhataa</i>, the suffering produced by all \"conditioned phenomena\" (i.e., <i>sankhaaras</i>, in the most general sense: see BD [<i>Buddhist Dictionary</i> (2nd ed.), by Ven. Nyaa.natiloka, Ven. Nyaa.naponika (ed.), Colombo 1972] s.v. <i>sankhaara</i> I, 4). This includes also experiences associated with hedonically neutral feeling. The suffering inherent in the formations has its roots in the imperfectability of all conditioned existence, and in the fact that there cannot be any final satisfaction within the incessant turning of the Wheel of Life. The neutral feeling associated with this type of suffering is especially the indifference of those who do not understand the fact of suffering and are not moved by it.</dd>\n\n<dt><a href=\"#fnt-4\" id=\"fn-4\">4.</a></dt>\n\t<dd><i>Viparinaama-dukkhataa</i>, the suffering associated with pleasant bodily and mental feelings: \"because they are the cause for the arising of pain when they change\" (VM XIV, 35).</dd>\n</dl>\n</div>\n\n<div class=\"seeAlso\">\n<p>See also: <a href=\"/tipitaka/sn/sn38/sn38.014.than\">SN 38.14</a>.</p>\n</div>\n\n</div>\n\n</body></html>",
+  "summary": "The three kinds of suffering.",
+  "extent": "complete",
+  "license": "UNKNOWN",
+  "copyrightOwner": "Buddhist Publication Society",
+  "copyrightYear": "1985",
+  "derivedLicenseHtml": "You may copy, reformat, reprint, republish, and redistribute this work in any medium whatsoever, provided that: (1) you only make such copies, etc. available <em>free of charge</em> and, in the case of reprinting, only in quantities of no more than 50 copies; (2) you clearly indicate that any derivatives of this work (including translations) are derived from this source document; and (3) you include the full text of this license in any copies or derivatives of this work. Otherwise, all rights reserved. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2009",
+  "source": "From <a href='../../../lib/authors/walshe/wheel318.html'><i>Samyutta Nikaya: An Anthology (WH 318-321)</i></a>, by M. O'C. Walshe (Kandy: Buddhist Publication Society, 1985). Transcribed from the print edition in 2007 by a volunteer, under the auspices of the Access to Insight Dhamma Transcription Project and by arrangement with the Buddhist Publication Society. Minor revisions were made in accordance with the ATI style sheet. Pali diacritics are represented using the Velthuis convention.",
+  "editorsNote": "",
+  "suttaNote": "The Pali title of this sutta is based on the PTS (Feer) edition.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Samyutta Nikaya",
+      "href": "/tipitaka/sn"
+    },
+    {
+      "label": "sn45",
+      "href": "/tipitaka/sn/sn45"
+    }
+  ],
+  "section": "tipitaka"
+}

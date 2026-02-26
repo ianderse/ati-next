@@ -1,0 +1,45 @@
+{
+  "slug": "tipitaka--index",
+  "originalPath": "tipitaka/index.html",
+  "urlPath": "/tipitaka",
+  "type": "sutta",
+  "title": "Tipitaka",
+  "subtitle": "The Pali Canon",
+  "subtitle2": "",
+  "pageTitle": "Tipitaka: The Pali Canon",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"alphalist\">\n<!-- robots content='none' -->\n<!-- the following list is brought to you in living color by GetHList() -->\n<ul class=\"hlist\">\n\t<li class=\"first\"><a href=\"/tipitaka/vin\" title=\"Vinaya\">Vin</a></li>\n\t<li><a href=\"/tipitaka/dn\" title=\"Digha Nikaya\">DN</a></li>\n\t<li><a href=\"/tipitaka/mn\" title=\"Majjhima Nikaya\">MN</a></li>\n\t<li><a href=\"/tipitaka/sn\" title=\"Samyutta Nikaya\">SN</a></li>\n\t<li><a href=\"/tipitaka/an\" title=\"Anguttara Nikaya\">AN</a></li>\n\t<li><a href=\"/tipitaka/kn\" title=\"Khuddaka Nikaya\">KN</a></li>\n</ul>\n<!-- /robots -->\n<br>\n<!-- robots content='none' -->\n<!-- the following list is brought to you in living color by GetHList() -->\n<ul class=\"hlist\">\n\t<li class=\"first\"><a href=\"/tipitaka/kn/khp\" title=\"Khuddakapatha\">Khp</a></li>\n\t<li><a href=\"/tipitaka/kn/dhp\" title=\"Dhammapada\">Dhp</a></li>\n\t<li><a href=\"/tipitaka/kn/ud\" title=\"Udana\">Ud</a></li>\n\t<li><a href=\"/tipitaka/kn/iti\" title=\"Ititvuttaka\">Iti</a></li>\n\t<li><a href=\"/tipitaka/kn/snp\" title=\"Sutta Nipata\">Sn</a></li>\n\t<li><a href=\"/tipitaka/kn/vv\" title=\"Vimanavatthu\">Vv</a></li>\n\t<li><a href=\"/tipitaka/kn/pv\" title=\"Petavatthu\">Pv</a></li>\n\t<li><a href=\"/tipitaka/kn/thag\" title=\"Theragatha\">Thag</a></li>\n\t<li><a href=\"/tipitaka/kn/thig\" title=\"Therigatha\">Thig</a></li>\n\t<li><a href=\"/tipitaka/kn/nm\" title=\"Niddesa\">Nm</a></li>\n\t<li><a href=\"/tipitaka/kn/miln\" title=\"Milindapañha\">Miln</a></li>\n</ul>\n<!-- /robots -->\n</div>\n\n<div class=\"chapter\">\n<p>The <i>Tipitaka</i> (Pali <i>ti,</i> \"three,\" + <i>pitaka,</i> \"baskets\"), or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism. The Tipitaka and the <a href=\"/noncanon\">paracanonical Pali texts</a> (<a href=\"/noncanon/fieldguide#atthakatha\">commentaries</a>, <a href=\"/noncanon/fieldguide#chron\">chronicles</a>, etc.) together constitute the complete body of classical Theravada texts.</p>\n<p>The Pali canon is a vast body of literature: in English translation the texts add up to thousands of printed pages. Most (but not all) of the Canon has already been published in English over the years. Although only a small fraction of these texts are available on this website, this collection can be a good place to start.</p>\n<p>The three divisions of the Tipitaka are:</p>\n<dl>\n<dt style=\"font-size:larger;font-weight:bold\"><a href=\"/tipitaka/vin\" id=\"vinaya\">Vinaya Pitaka</a></dt>\n<dd>The collection of texts concerning the rules of conduct governing the daily affairs within the Sangha — the community of <i>bhikkhus</i> (ordained monks) and <i>bhikkhunis</i> (ordained nuns). Far more than merely a list of rules, the Vinaya Pitaka also includes the stories behind the origin of each rule, providing a detailed account of the Buddha's solution to the question of how to maintain communal harmony within a large and diverse spiritual community.</dd>\n<dt style=\"font-size:larger;font-weight:bold\"><a href=\"/tipitaka/sutta\" id=\"sutta\">Sutta Pitaka</a></dt>\n<dd>The collection of suttas, or discourses, attributed to the Buddha and a few of his closest disciples, containing all the central teachings of Theravada Buddhism. (More than one thousand sutta translations are available on this website.) The suttas are divided among five <i>nikayas</i> (collections):\n<ul>\n<li><a href=\"/tipitaka/dn\">Digha Nikaya</a> — the \"long collection\"</li>\n<li><a href=\"/tipitaka/mn\">Majjhima Nikaya</a> — the \"middle-length collection\"</li>\n<li><a href=\"/tipitaka/sn\">Samyutta Nikaya</a> — the \"grouped collection\"</li>\n<li><a href=\"/tipitaka/an\">Anguttara Nikaya</a> — the \"further-factored collection\"</li>\n<li>\n<a href=\"/tipitaka/kn\">Khuddaka Nikaya</a> — the \"collection of little texts\":\n<ul>\n<li><a href=\"/tipitaka/kn/khp\">Khuddakapatha</a></li>\n<li><a href=\"/tipitaka/kn/dhp\">Dhammapada</a></li>\n<li><a href=\"/tipitaka/kn/ud\">Udana</a></li>\n<li><a href=\"/tipitaka/kn/iti\">Itivuttaka</a></li>\n<li><a href=\"/tipitaka/kn/snp\">Sutta Nipata</a></li>\n<li><a href=\"/tipitaka/kn/vv\">Vimanavatthu</a></li>\n<li><a href=\"/tipitaka/kn/pv\">Petavatthu</a></li>\n<li><a href=\"/tipitaka/kn/thag\">Theragatha</a></li>\n<li><a href=\"/tipitaka/kn/thig\">Therigatha</a></li>\n<li>Jataka</li>\n<li>Niddesa</li>\n<li>Patisambhidamagga</li>\n<li>Apadana</li>\n<li>Buddhavamsa</li>\n<li>Cariyapitaka</li>\n<li>Nettippakarana (included only in the Burmese edition of the Tipitaka)</li>\n<li>Petakopadesa (&nbsp; \" &nbsp; \" &nbsp;)</li>\n<li><a href=\"/tipitaka/kn/miln\">Milindapañha</a> (&nbsp; \" &nbsp; \" &nbsp;)</li>\n</ul>\n</li>\n</ul>\n</dd>\n<dt style=\"font-size:larger;font-weight:bold\"><a href=\"/tipitaka/abhi\" id=\"abhi\">Abhidhamma Pitaka</a></dt>\n<dd>The collection of texts in which the underlying doctrinal principles presented in the Sutta Pitaka are reworked and reorganized into a systematic framework that can be applied to an investigation into the nature of mind and matter.</dd>\n</dl>\n\n</div>\n\n\n<div class=\"notes\">\n<h1>For further reading</h1>\n<ul>\n<li><a href=\"/faq#tipitaka\"><i>Where can I find a copy of the complete Pali canon (Tipitaka)?</i></a> (Frequently Asked Question)</li>\n<li><a href=\"/noncanon/fieldguide\">Beyond the Tipitaka: A Field Guide to Post-canonical Pali Literature</a></li>\n<li><a href=\"/authors/pali\">Pali Language Study Aids</a> offers links that may be useful to Pali students of every level.</li>\n<li><i>Handbook of Pali Literature,</i> by Somapala Jayawardhana (Colombo: Karunaratne &amp; Sons, Ltd., 1994). A guide, in dictionary form, through the Pali canon, with detailed descriptions of the major landmarks in the Canon.</li>\n<li><i>An Analysis of the Pali Canon,</i> Russell Webb, ed. (Kandy: Buddhist Publication Society, 1975). An indispensable \"roadmap\" and outline of the Pali canon. Contains an excellent index listing suttas by name.</li>\n<li><i>Guide to Tipitaka,</i> U Ko Lay, ed. (Delhi: Sri Satguru Publications, 1990). Another excellent outline of the Tipitaka, containing summaries of many important suttas.</li>\n<li><i>Buddhist Dictionary,</i> by Nyanatiloka Mahathera (Kandy: Buddhist Publication Society, 1980). A classic handbook of important terms and concepts in Theravada Buddhism.</li>\n</ul>\n</div>\n\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Tipitaka: The Pali Canon\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [
+    "<a href='../index-sutta.html'>Sutta Index</a>; <a href='translators.html'>Translations by Translator</a>"
+  ],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    }
+  ],
+  "section": "tipitaka"
+}

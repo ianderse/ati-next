@@ -1,0 +1,45 @@
+{
+  "slug": "devices",
+  "originalPath": "devices.html",
+  "urlPath": "/devices",
+  "type": "unknown",
+  "title": "ATI on many devices",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "ATI on many devices",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><p>Here are some of the many ways you can access ATI.</p>\n\n<div class=\"chapter\">\n<h1><a id=\"browsers\"></a>With web browsers</h1>\n<dl>\n<dt>Offline edition</dt>\n<dd>The <a href=\"/tech/download/bulk\">offline edition</a> is a zip archive containing the entire site. You can <a href=\"/tech/download/bulk\">download it onto your computer</a>, then disconnect your computer from the Internet and browse through it with your web browser.</dd>\n\n<dt>Mirrors</dt>\n<dd>Access to Insight's official home is at <a href=\"http://www.accesstoinsight.org\" title=\"visit Access to Insight!\">www.accesstoinsight.org</a>. There are many other websites out there that \"mirror\" all of, or selections from, Access to Insight. Although I encourage mirroring, please understand that I am not involved with these sites and have no control over them. If you have a question about the content on a mirror site, you'll have to sort it out with that site's owner.</dd>\n\n<dt>CD-ROM edition</dt>\n<dd>Over the years I published a free CD-ROM version of the website for offline browsing. The last edition came out in 2007. It is currently out of print.</dd>\n\n</dl>\n</div>\n\n<div class=\"chapter\">\n<a id=\"mobile\"></a>\n<h1>On mobile devices</h1>\n\n<p>Thanks to the ingenuity and generosity of several ATI readers, offline versions of the website are available for several handheld mobile devices. These free apps allow you to browse the website without the need of any kind of network connection.</p>\n\n<p>To locate the app that is suitable to your device, you can search the iTunes Store, Windows Marketplace, or the Android Store, as appropriate.</p>\n\n<p>Please understand that these are not \"official\" Access to Insight apps. If you have any problems or questions about any of them, please contact their developers directly.</p>\n<!-- \n\n<dl>\n\n<dt>Android</dt>\n<dd>\n<p>\n\n<a href='http://market.android.com/developer?pub=Samui+Interactive'><img src='img/ati_app_samui.png' style='vertical-align:middle' width='36' height='36' alt='samui app icon' /></a> by <a href='http://www.samui-interactive.com/' title='Visit www.samui-interactive.com' class='offsite' target='offsite' >Samui Interactive</a> and available through the <a href='http://market.android.com/developer?pub=Samui+Interactive' title='Visit market.android.com' class='offsite' target='offsite' >Android Market</a>.</p>\n</dd>\n\n<dt>iPad</dt>\n\t<dd>\n\t<p><a href='https://itunes.apple.com/us/app/access-to-insight-readings/id349225338'><img src='img/ati_app_parousis.iphone.2013.09.small.jpg' style='vertical-align:middle' width='32' height='32' alt='iPhone app icon' /></a> by <a href=\"mailto:accesstoinsightapp@gmail.com?subject=Question%20about%20the%20iPhone%20App\">Bill Parousis</a> and available through the <a href='http://itunes.apple.com/us/app/access-to-insight-readings/id349225338?mt=8' title='Visit itunes.apple.com' class='offsite' target='offsite' >Apple iTunes Store</a>. </p>\n</dd>\n<!~~ \n\t<dd>One ATI reader reports good results using the iPad app <a href='http://www.goodiware.com/goodreader.html' title='Visit www.goodiware.com' class='offsite' target='offsite' >GoodReader</a> to read the offline edition, but with the following caveats:\n\t\t<ol>\n\t\t<li>The GoodReader menu isn't visible with \"not too short\" menu clicks (about half a second). Short clicks are OK. </li>\n\t\t<li>Automatic backups take a long time.</li>\n\t\t<li>GoodReader must remain synchronized as an application, else iTunes would delete GoodReader and its files.</li>\n\t\t</ol>\n\t</dd>\n ~~>\n\t\n<dt>iPhone</dt>\n<dd>\n<p>\n<a href=\"https://itunes.apple.com/app/access-to-insight-readings/id349225338\"><img src='img/ati_app_parousis.iphone.2013.09.small.jpg' style='vertical-align:middle' width='32' height='32' alt='iPhone app icon' /></a> by <a href=\"mailto:accesstoinsightapp@gmail.com?subject=Question%20about%20the%20iPhone%20App\">Bill Parousis</a> and available through the <a href='http://itunes.apple.com/app/access-to-insight-readings/id349225338' title='Visit itunes.apple.com' class='offsite' target='offsite' >Apple iTunes Store</a>. </p>\n</dd>\n\n<dt>Nokia E63</dt>\n\t<dd>One ATI reader describes <a href='http://gnuser.wordpress.com/2010/09/29/reading-accesstoinsight-org-site-on-nokia-e63-without-internet-connection/' title='Visit gnuser.wordpress.com' class='offsite' target='offsite' >how to read the offline edition on a Nokia E63 phone</a>. These instructions may also be useful to users of other phones.</dd>\n\n<dt>Windows phone</dt>\n\t<dd><a href='http://www.windowsphone.com/en-US/apps/f00053e8-8924-4baf-9546-56fb2cf7840e'><img src='img/att_app_jackchalat.png' style='vertical-align:middle' width='36' height='36' alt='windows phone app icon' /></a>\nby <a href='http://www.windowsphone.com/en-US/publishers/Jackchalat?appid=f00053e8-8924-4baf-9546-56fb2cf7840e&amp;id=Jackchalat' title='Visit www.windowsphone.com' class='offsite' target='offsite' >Jackchalat</a> and available through the <a href='http://www.windowsphone.com/en-US/apps/f00053e8-8924-4baf-9546-56fb2cf7840e' title='Visit www.windowsphone.com' class='offsite' target='offsite' >Windows Phones Marketplace</a>.</dd>\n\n</dl>\n -->\n</div>\n\n<div class=\"chapter\">\n<a id=\"ebook\"></a>\n<h1>On eBook readers</h1>\n\n<dl>\n<dt>iPad, nook, Kindle, Sony Reader, BlackBerry, etc.</dt>\n<dd>ATI no longer distributes articles and books in ePub or mobiPocket formats.</dd>\n</dl>\n</div>\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"ATI on many devices\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [
+    "<a href='faq.html'>Frequently Asked Questions about Access to Insight</a>"
+  ],
+  "altFormats": [],
+  "atiYear": "",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    }
+  ],
+  "section": "root"
+}

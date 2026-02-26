@@ -1,0 +1,43 @@
+{
+  "slug": "random-article",
+  "originalPath": "random-article.html",
+  "urlPath": "/random-article",
+  "type": "unknown",
+  "title": "Random article...",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Random article...",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<html><head></head><body></body></html>",
+  "summary": "",
+  "extent": "",
+  "license": "UNKNOWN",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    }
+  ],
+  "section": "root"
+}

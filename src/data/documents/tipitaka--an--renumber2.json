@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--an--renumber2",
+  "originalPath": "tipitaka/an/renumber2.html",
+  "urlPath": "/tipitaka/an/renumber2",
+  "type": "article",
+  "title": "Corrections to PTS page numberings",
+  "subtitle": "July 2008",
+  "subtitle2": "",
+  "pageTitle": "Corrections to PTS page numberings: July 2008",
+  "author": "John Kelly",
+  "authorShortname": "Kelly",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "John Kelly",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><p>\nTalking of errors, I've now detected a raft of PTS page reference errors on ATI for translations from the Anguttara Nikaya. These are the only references I've looked at in any detail, and I'm confident that mine are right, since I've been spending a lot of time with the AN helping edit Bhikkhu Bodhi's forthcoming translation.\n</p>\n<ul>\n\n<li>1:21-40 (Thanissaro), PTS ref should be A i 5</li>\n<li>1:31-40 (Woodward), the 6 suttas on this page are actually translations of 21-24, and 39-40, so the numbering should be corrected and the reference should read PTS: A i 5 (I,iii,1-4 and iv, 9-10)</li>\n<li>1:45-46, PTS ref should be A i 9</li>\n<li>1:48 \" \" \" \" A i 10</li>\n<li>2:9 \" \" \" \" A i 51</li>\n<li>2:19 \" \" \" \" A i 58</li>\n<li>3:62 \" \" \" \" A i 178</li>\n<li>3:67 \" \" \" \" A i 197</li>\n<li>3:68 \" \" \" \" A i 199</li>\n<li>3:73 \" \" \" \" A i 219</li>\n<li>3:3.100 (xi-xv) \" \" \" \" A i 256</li>\n<li>4:31 \" \" \" \" A ii 32</li>\n<li>4:35 \" \" \" \" A ii 35</li>\n<li>4:36 \" \" \" \" A ii 37</li>\n<li>4:37 \" \" \" \" A ii 39</li>\n<li>4:50 \" \" \" \" A ii 53</li>\n<li>4:123 \" \" \" \" A ii 126</li>\n<li>4:124 \" \" \" \" A ii 128</li>\n<li>4:179 \" \" \" \" A ii 167</li>\n<li>4:235 \" \" \" \" A ii 235</li>\n<li>4:259 \" \" \" \" A ii 252</li>\n<li>5:2 \" \" \" \" A iii 2</li>\n<li>5:51 \" \" \" \" A iii 63</li>\n<li>5:53 \" \" \" \" A iii 65</li>\n<li>5:64 \" \" \" \" A iii 80</li>\n<li>5:73 \" \" \" \" A iii 86</li>\n<li>5:96 \" \" \" \" A iii 120</li>\n<li>5:97 \" \" \" \" A iii 120</li>\n<li>5:98 \" \" \" \" A iii 121</li>\n<li>6:16 \" \" \" \" A iii 295</li>\n<li>6:47 \" \" \" \" A iii 356</li>\n<li>6:49 \" \" \" \" A iii 358</li>\n<li>6:54 \" \" \" \" A iii 366</li>\n<li>6:85 \" \" \" \" A iii 435</li>\n<li>6:97 \" \" \" \" A iii 441</li>\n<li>6:102 \" \" \" \" A iii 443</li>\n<li>6:104 \" \" \" \" A iii 444</li>\n<li>7:15 \" \" \" \" A iv 10</li>\n<li>7:63 \" \" \" \" A iv 106</li>\n<li>8:25 \" \" \" \" A iv 220</li>\n<li>9:1 \" \" \" \" A iv 351</li>\n<li>9:13 \" \" \" \" A iv 382</li>\n<li>9:14 \" \" \" \" A iv 385</li>\n<li>9:15 \" \" \" \" A iv 386</li>\n<li>9:16 \" \" \" \" A iv 387</li>\n<li>9:40 \" \" \" \" A iv 435</li>\n<li>10:20 \" \" \" \" A v 29</li>\n<li>10:208 \" \" \" \" A v 299</li>\n<li>11:10 \" \" \" \" A v 322</li>\n</ul>\n\n<p>This will keep you busy for a while ;-)</p>\nCheers,<br>\nJohn K.\n\n\n\n\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "UNKNOWN",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "You may copy, reformat, reprint, republish, and redistribute this work in any medium whatsoever, provided that: (1) you only make such copies, etc. available <em>free of charge</em>; (2) you clearly indicate that any derivatives of this work (including translations) are derived from this source document; and (3) you include the full text of this license in any copies or derivatives of this work. Otherwise, all rights reserved. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2008",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Anguttara Nikaya",
+      "href": "/tipitaka/an"
+    }
+  ],
+  "section": "tipitaka"
+}

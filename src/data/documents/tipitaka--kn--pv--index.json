@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--kn--pv--index",
+  "originalPath": "tipitaka/kn/pv/index.html",
+  "urlPath": "/tipitaka/kn/pv",
+  "type": "sutta",
+  "title": "Petavatthu",
+  "subtitle": "Stories of the Hungry Ghosts",
+  "subtitle2": "",
+  "pageTitle": "Petavatthu: Stories of the Hungry Ghosts",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<p>The Petavatthu contains 51 poems, each explaining how unwholesome deeds led to the rebirth of a being into the miserable realm of the \"hungry ghosts\" (<i>peta</i>).</p>\n<p>The translator appears in the square brackets [].</p>\n\n<h1>Selected suttas</h1>\n<ul class=\"suttaList\">\n\t\n<!-- html_sutta_summary.inc.php -->\n\n<li><a id=\"pv.1.05.than\"></a><span class=\"sutta_title\"><a href=\"/tipitaka/kn/pv/pv.1.05.than\" title=\"Translated by Thanissaro Bhikkhu\">Pv 1.5: Tirokudda Kanda — Hungry Shades Outside the Walls</a></span>\n\t<span class=\"sutta_ref\">{<a href=\"/tipitaka/sltp/Pv_utf8#v.14\" title=\"Read the Pali source\" target=\"pali\">Pv 14-25</a>}</span>\n\t<span class=\"sutta_trans\">[<a href=\"/tipitaka/kn/pv/pv.1.05.than\" title=\"Translated by Thanissaro Bhikkhu\">Thanissaro</a>].</span>\n\t<div class=\"sutta_summary\">Some of your ancestors and deceased loved ones may have been reborn as hungry ghosts, no longer able to fend for themselves. In this poem the Buddha explains that it is to your long-term benefit — and to theirs — that you honor their memory with gifts. </div>\n</li>\n</ul>\n\n</div>\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Petavatthu: Stories of the Hungry Ghosts\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Khuddaka Nikaya",
+      "href": "/tipitaka/kn"
+    }
+  ],
+  "section": "tipitaka"
+}

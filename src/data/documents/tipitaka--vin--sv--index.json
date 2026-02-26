@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--vin--sv--index",
+  "originalPath": "tipitaka/vin/sv/index.html",
+  "urlPath": "/tipitaka/vin/sv",
+  "type": "sutta",
+  "title": "Suttavibhanga",
+  "subtitle": "(selected texts)",
+  "subtitle2": "",
+  "pageTitle": "Suttavibhanga: (selected texts)",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<p>The Suttavibhanga contains the basic training rules for bhikkhus and bhikkhunis, along with the \"origin story\" for each one. These rules are summarized in the <a href=\"/tipitaka/vin/sv/bhikkhu-pati-intro\">Patimokkha</a>, and amount to 227 rules for the bhikkhus, 311 for the bhikkhunis. The Patimokkkha rules are grouped as follows:</p>\n<ul>\n<li>Parajika: rules entailing expulsion from the Sangha (Defeat) (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#pr\">4 for bhikkhus</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#pr\">8 for bhikkhunis</a>)</li>\n<li>Sanghadisesa: rules entailing an initial and subsequent meeting of the Sangha (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#sg\">13</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#sg\">17</a>)</li>\n<li>Aniyata (indefinite) rules (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#ay\">2</a>, 0)</li>\n<li>Nissaggiya pacittiya: rules entailing forfeiture and confession (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#np\">30</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#np\">30</a>)</li>\n<li>Pacittiya: rules entailing confession (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#pc\">92</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#pc\">166</a>)</li>\n<li>Patidesaniya: rules entailing acknowledgement (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#pd\">4</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#pd\">8</a>)</li>\n<li>Sekhiya: rules of training (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#sk\">75</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#sk\">75</a>)</li>\n<li>Adhikarana samatha: rules for settling disputes (<a href=\"/tipitaka/vin/sv/bhikkhu-pati#as\">7</a>, <a href=\"/tipitaka/vin/sv/bhikkhuni-pati#as\">7</a>)</li>\n</ul>\n<h2>Summaries and anthologies based on the Suttavibhanga:</h2>\n<ul>\n<li><a href=\"/authors/ariyesako/layguide\"><i>The Bhikkhus' Rules — A Guide for Laypeople: The Theravadin Buddhist Monk's Rules Compiled and Explained,</i></a> by Bhikkhu Ariyesako.</li>\n<li><a href=\"/tipitaka/vin/sv/bhikkhuni-pati\"><i>The Bhikkhuni Patimokkha: The Bhikkhunis' Code of Discipline,</i></a> Thanissaro Bhikkhu, trans. A concise summary of the bhikkhuni Patimokkha rules.</li>\n<li><a href=\"/authors/thanissaro/bmc1\"><i>The Buddhist Monastic Code, Volume I: The Patimokkha Training Rules Translated and Explained,</i></a> by Thanissaro Bhikkhu. This book provides an in-depth examination of each of the rules.</li>\n<li><a href=\"/tipitaka/vin/sv/bhikkhu-pati-intro\"><i>Introduction to the Patimokkha Training Rules,</i></a> by Thanissaro Bhikkhu</li>\n<li><a href=\"/tipitaka/vin/sv/bhikkhu-pati\"><i>The Patimokkha: The Bhikkhus' Code of Discipline,</i></a> Thanissaro Bhikkhu, trans. A concise summary of the bhikkhu Patimokkha rules.</li>\n</ul>\n\n</div>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Suttavibhanga: (selected texts)\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Vinaya",
+      "href": "/tipitaka/vin"
+    }
+  ],
+  "section": "tipitaka"
+}

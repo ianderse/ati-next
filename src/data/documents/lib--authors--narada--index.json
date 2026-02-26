@@ -1,0 +1,47 @@
+{
+  "slug": "lib--authors--narada--index",
+  "originalPath": "lib/authors/narada/index.html",
+  "urlPath": "/authors/narada",
+  "type": "article",
+  "title": "Narada Thera",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Narada Thera",
+  "author": "",
+  "authorShortname": "Narada",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><dl class=\"bookList\">\n\t\n<!-- html_article_summary.inc.php -->\n\n<dt><a href=\"/authors/narada/nutshell\" id=\"nutshell\">Buddhism in a Nutshell</a>, \n<span class=\"by\">by  Narada Mahathera</span>\n<span class=\"filedata\">(1995; 37pp./112KB)</span>\n  </dt>\n<dd>An excellent introductory overview of the fundamental principles of Buddhist doctrine. Topics covered include: the life of the Buddha, the Dhamma (Is it a philosophy? A religion? An ethical system?), the Four Noble Truths, the Law of Kamma, Rebirth, Dependent Origination, Anatta, and Nibbana. Recommended for beginners. </dd>\n\t\n<!-- html_article_summary.inc.php -->\n\n<dt><a href=\"/authors/narada/wheel014\" id=\"wheel014\">Everyman's Ethics: Four Discourses of the Buddha</a>, \n<span class=\"by\">adapted from the translations of  Narada Thera</span>\n<span class=\"filedata\">(1995; 16pp./49KB)</span>\n  </dt>\n<dd>Four discourses by the Buddha that are of particular value to laypeople: the Sigalovada, Maha-mangala, Parabhava, and Vyagghapajja suttas. </dd>\n</dl>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Narada Thera\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Authors",
+      "href": "/authors"
+    }
+  ],
+  "section": "authors"
+}

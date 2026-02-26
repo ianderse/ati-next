@@ -1,0 +1,43 @@
+{
+  "slug": "404",
+  "originalPath": "404.html",
+  "urlPath": "/404",
+  "type": "unknown",
+  "title": "Lost in samsara",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Lost in samsara",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\" style=\"text-align:center;\">\n<h2>Where would you like to go next?</h2>\n\n<p>\n<a href=\"/index\">Home page</a>\n| <a href=\"/help\">Help page</a>\n| <a href=\"/help#map\">Site map</a>\n| <a href=\"/guides/dhamma/sacca/sacca3/nibbana\">Nibbana</a>\n</p>\n</div>\n    \n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Lost in samsara\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    }
+  ],
+  "section": "root"
+}

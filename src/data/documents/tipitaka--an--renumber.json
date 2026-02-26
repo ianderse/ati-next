@@ -1,0 +1,51 @@
+{
+  "slug": "tipitaka--an--renumber",
+  "originalPath": "tipitaka/an/renumber.html",
+  "urlPath": "/tipitaka/an/renumber",
+  "type": "article",
+  "title": "List of Renumbered Suttas",
+  "subtitle": "to Match the PTS (May 2002)",
+  "subtitle2": "",
+  "pageTitle": "List of Renumbered Suttas: to Match the PTS (May 2002)",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><p>The sutta translations on this website were provided by several translators, not all of whom used the same edition of the Tipitaka as their Pali source. Some editions enumerate the suttas slightly differently, which can often lead to confusion (for example, the <a href=\"/tipitaka/an/an03/an03.065.than\">Kalama Sutta</a> is AN 3.65 in the <a href=\"/sources#pts\" title=\"Get contact info for Pali Text Society\">Pali Text Society</a>  edition, but AN 3.66 in the Thai). In May 2002 I decided to adopt the PTS as the common reference point for sutta numbers; henceforth all suttas from the Anguttara Nikaya on Access to Insight will be numbered following the PTS system. To implement this change I renumbered approximately thirty suttas, as summarized in the table below.</p>\n<table style=\"text-align:center\">\n<tbody><tr>\n<th>Sutta name</th>\n<th>Old number<br>\n (from Thai Tipitaka)</th>\n<th>New number<br>\n (from PTS)</th>\n<th>PTS volume<br>\n &amp; page</th>\n</tr>\n<tr>\n<td>Vijja-bhagiya &amp;<br>\n Vimutti</td>\n<td>II.29 &amp;<br>\n II.30</td>\n<td><a href=\"/tipitaka/an/an02/an02.030.than\">II.30</a> (merged into one sutta)</td>\n<td>A i 61</td>\n</tr>\n<tr>\n<td>Nidana</td>\n<td>III.34</td>\n<td><a href=\"/tipitaka/an/an03/an03.033.than\">III.33</a></td>\n<td>A i 120</td>\n</tr>\n<tr>\n<td>Hatthaka</td>\n<td>III.35</td>\n<td><a href=\"/tipitaka/an/an03/an03.034.than\">III.34</a></td>\n<td>A i 136</td>\n</tr>\n<tr>\n<td>Sukhamala</td>\n<td>III.39</td>\n<td><a href=\"/tipitaka/an/an03/an03.038.than\">III.38</a></td>\n<td>A i 145</td>\n</tr>\n<tr>\n<td>Dvejana (1)</td>\n<td>III.52</td>\n<td><a href=\"/tipitaka/an/an03/an03.051.than\">III.51</a></td>\n<td>A i 155</td>\n</tr>\n<tr>\n<td>Dvejana (2)</td>\n<td>III.53</td>\n<td><a href=\"/tipitaka/an/an03/an03.052.than\">III.52</a></td>\n<td>A i 156</td>\n</tr>\n<tr>\n<td>Vaccha</td>\n<td>III.58</td>\n<td><a href=\"/tipitaka/an/an03/an03.057.than\">III.57</a></td>\n<td>A i 160</td>\n</tr>\n<tr>\n<td>Sangharaja</td>\n<td>III.61</td>\n<td><a href=\"/tipitaka/an/an03/an03.060.than\">III.60</a></td>\n<td>A i 168</td>\n</tr>\n<tr>\n<td>Tittha</td>\n<td>III.62</td>\n<td><a href=\"/tipitaka/an/an03/an03.061.than\">III.61</a></td>\n<td>A i 173</td>\n</tr>\n<tr>\n<td>Kalama</td>\n<td>III.66</td>\n<td><a href=\"/tipitaka/an/an03/an03.065.than\">III.65</a></td>\n<td>A i 193</td>\n</tr>\n<tr>\n<td>Muluposatha</td>\n<td>III.71</td>\n<td><a href=\"/tipitaka/an/an03/an03.070.than\">III.70</a></td>\n<td>A i 205</td>\n</tr>\n<tr>\n<td>Channa</td>\n<td>III.72</td>\n<td><a href=\"/tipitaka/an/an03/an03.071.than\">III.71</a></td>\n<td>A i 215</td>\n</tr>\n<tr>\n<td>Ajivaka</td>\n<td>III.73</td>\n<td><a href=\"/tipitaka/an/an03/an03.072.than\">III.72</a></td>\n<td>A i 217</td>\n</tr>\n<tr>\n<td>Sakka</td>\n<td>III.74</td>\n<td><a href=\"/tipitaka/an/an03/an03.073.than\">III.73</a></td>\n<td>A i 217</td>\n</tr>\n<tr>\n<td>Silabbata</td>\n<td>III.79</td>\n<td><a href=\"/tipitaka/an/an03/an03.078.than\">III.78</a></td>\n<td>A i 225</td>\n</tr>\n<tr>\n<td>Gadrabha</td>\n<td>III.83</td>\n<td><a href=\"/tipitaka/an/an03/an03.081.than\">III.81(ii)</a></td>\n<td>A i 229</td>\n</tr>\n<tr>\n<td>Sikkha (1)</td>\n<td>III.90</td>\n<td><a href=\"/tipitaka/an/an03/an03.088.than\">III.88</a></td>\n<td>A i 235</td>\n</tr>\n<tr>\n<td>Sikkha (2)</td>\n<td>III.91</td>\n<td><a href=\"/tipitaka/an/an03/an03.089.than\">III.89</a></td>\n<td>A i 235</td>\n</tr>\n<tr>\n<td>Accayika</td>\n<td>III.93</td>\n<td><a href=\"/tipitaka/an/an03/an03.091.than\">III.91</a></td>\n<td>A i 239</td>\n</tr>\n<tr>\n<td>Ajaniya</td>\n<td>III.97</td>\n<td><a href=\"/tipitaka/an/an03/an03.094.than\">III.94</a></td>\n<td>A i 244</td>\n</tr>\n<tr>\n<td>Lonaphala</td>\n<td>III.101</td>\n<td><a href=\"/tipitaka/an/an03/an03.099.than\">III.99</a></td>\n<td>A i 249</td>\n</tr>\n<tr>\n<td>Pansadhovaka</td>\n<td>III.102</td>\n<td><a href=\"/tipitaka/an/an03/an03.100.01-10.than\">III.100(i-x)</a></td>\n<td>A i 253</td>\n</tr>\n<tr>\n<td>Nimitta</td>\n<td>III.103</td>\n<td><a href=\"/tipitaka/an/an03/an03.100.11-15.than\">III.100(xi-xv)</a></td>\n<td>A i 255</td>\n</tr>\n<tr>\n<td>Kuta</td>\n<td>III.110</td>\n<td><a href=\"/tipitaka/an/an03/an03.105.than\">III.105</a></td>\n<td>A i 261</td>\n</tr>\n<tr>\n<td>Moneyya</td>\n<td>III.123</td>\n<td><a href=\"/tipitaka/an/an03/an03.120.than\">III.120</a></td>\n<td>A i 273</td>\n</tr>\n<tr>\n<td>Gotamaka-cetiya</td>\n<td>III.126</td>\n<td><a href=\"/tipitaka/an/an03/an03.123.than\">III.123</a></td>\n<td>A i 276</td>\n</tr>\n<tr>\n<td>Katuviya</td>\n<td>III.129</td>\n<td><a href=\"/tipitaka/an/an03/an03.126.than\">III.126</a></td>\n<td>A i 279</td>\n</tr>\n<tr>\n<td>Lekha</td>\n<td>III.133</td>\n<td><a href=\"/tipitaka/an/an03/an03.130.than\">III.130</a></td>\n<td>A i 283</td>\n</tr>\n<tr>\n<td>Dhamma-niyama</td>\n<td>III.137</td>\n<td><a href=\"/tipitaka/an/an03/an03.134.than\">III.134</a></td>\n<td>A i 286</td>\n</tr>\n<tr>\n<td>Ariyamagga</td>\n<td>IV.237</td>\n<td><a href=\"/tipitaka/an/an04/an04.235.than\">IV.235</a></td>\n<td>A ii 237</td>\n</tr>\n</tbody></table>\n\n\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"List of Renumbered Suttas: to Match the PTS (May 2002)\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2002",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Anguttara Nikaya",
+      "href": "/tipitaka/an"
+    }
+  ],
+  "section": "tipitaka"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "tipitaka--vin--mv--mv.06.40.01.than",
+  "originalPath": "tipitaka/vin/mv/mv.06.40.01.than.html",
+  "urlPath": "/tipitaka/vin/mv/mv.06.40.01.than",
+  "type": "sutta",
+  "title": "Vinaya-samukkamsa",
+  "subtitle": "The Innate Principles of the Vinaya",
+  "subtitle2": "",
+  "pageTitle": "Vinaya-samukkamsa: The Innate Principles of the Vinaya",
+  "author": "Thanissaro Bhikkhu",
+  "authorShortname": "Thanissaro",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "Thanissaro Bhikkhu",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "6.40.1",
+  "ptsId": "Horner vol. 4, p. 347",
+  "tipitakaBook": "Mahavagga",
+  "tipitakaBookAbbrev": "Mv",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n<p>Now at that time uncertainty arose in the monks with regard to this and that item: \"Now what is allowed by the Blessed One? What is not allowed?\" They told this matter to the Blessed One, (who said):</p>\n<p>\"Bhikkhus, whatever I have not objected to, saying, 'This is not allowable,' if it fits in with what is not allowable, if it goes against what is allowable, this is not allowable for you.</p>\n<p>\"Whatever I have not objected to, saying, 'This is not allowable,' if it fits in with what is allowable, if it goes against what is not allowable, this is allowable for you.</p>\n<p>\"And whatever I have not permitted, saying, 'This is allowable,' if it fits in with what is not allowable, if it goes against what is allowable, this is not allowable for you.</p>\n<p>\"And whatever I have not permitted, saying, 'This is allowable,' if it fits in with what is allowable, if it goes against what is not allowable, this is allowable for you.\"</p>\n</div>\n\n\n\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY-NC",
+  "copyrightOwner": "Thanissaro Bhikkhu",
+  "copyrightYear": "1996",
+  "derivedLicenseHtml": "The text of this page (\"Vinaya-samukkamsa: The Innate Principles of the Vinaya\", by Thanissaro Bhikkhu) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by-nc/4.0/\">http://creativecommons.org/licenses/by-nc/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-nc-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "1996",
+  "source": "From <a href='../../../lib/authors/thanissaro/asoka.html'><i>That the True Dhamma Might Last a Long Time: Readings Selected by King Asoka</i></a>, translated by Thanissaro Bhikkhu. Transcribed from a file provided by the translator.",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Vinaya",
+      "href": "/tipitaka/vin"
+    },
+    {
+      "label": "mv",
+      "href": "/tipitaka/vin/mv"
+    }
+  ],
+  "section": "tipitaka"
+}

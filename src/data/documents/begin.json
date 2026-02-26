@@ -1,0 +1,43 @@
+{
+  "slug": "begin",
+  "originalPath": "begin.html",
+  "urlPath": "/begin",
+  "type": "unknown",
+  "title": "Beginnings",
+  "subtitle": "Suggested Entry Points to this Website",
+  "subtitle2": "",
+  "pageTitle": "Beginnings: Suggested Entry Points to this Website",
+  "author": "",
+  "authorShortname": "",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><p>There are more than 2,000 web pages on this site, containing hundreds of books, articles, sutta translations, and more — all of which may be a bit overwhelming if you're new to the site or to the teachings of Theravada Buddhism. Here are some starting points to help you get oriented.</p>\n<dl>\n<dt>General information about Theravada Buddhism</dt>\n<dd>\n<ul>\n<li><a href=\"/theravada\">What is Theravada Buddhism?</a></li>\n<li><a href=\"/history\">Theravada Buddhism: A Chronology</a></li>\n<li><a href=\"/guides/buddha\">A Sketch of the Buddha's Life: Readings from the Pali Canon</a></li>\n</ul>\n\n</dd>\n<dt>Introduction to the Buddha's teachings</dt>\n<dd>\n\n<ul>\n<li><a href=\"/authors/bodhi/wheel433\">The Buddha and His Dhamma</a>, by Bhikkhu Bodhi.</li>\n<li><a href=\"/guides\">A Path to Freedom: A Self-guided Tour of the Buddha's Teachings</a></li>\n<li><a href=\"/authors/bodhi/bps-essay_20\">The Nobility of the Truths</a>, by Bhikkhu Bodhi</li>\n<li><a href=\"/authors/thanissaro/refuge\">Refuge: an Introduction to the Buddha, Dhamma, and Sangha</a>, by Thanissaro Bhikkhu</li>\n<li><a href=\"/study\">Study Guides</a>: annotated anthologies of short passages from the Canon, for individual or group study</li>\n<li>Many of the <i><a href=\"/authors/bpslist#leaves\">Bodhi Leaves</a></i> booklets offer personal reflections on Buddhism that newcomers often find helpful.</li>\n</ul>\n\n</dd>\n<dt>Beginning meditation</dt><!-- Where to find meditation centers/teachers ~~ FAQ? -->\n<!-- Youth section -->\n<dd>\n\n<ul>\n<li><a href=\"/authors/thanissaro/guided\">A Guided Meditation</a>, by Thanissaro Bhikkhu</li>\n<li><a href=\"/authors/thai/thate/buddho\">Buddho</a>, by Ajaan Thate</li>\n<li><a href=\"/authors/thai/lee/startsmall\">Starting Out Small: A Collection of Talks for Beginning Meditators</a>, by Ajaan Lee Dhammadharo</li>\n</ul>\n\n</dd>\n<dt>Reading the Suttas</dt>\n<dd>\n\n<ul>\n<li><a href=\"/tipitaka/sn/sn56/sn56.011.than\">The Buddha's first sermon</a></li>\n<li><a href=\"/random-sutta\">Random sutta</a></li>\n</ul>\n\n</dd>\n<dt>Useful navigational points of reference</dt>\n<dd>\n\n<ul>\n<li><a href=\"/help#map\">Site map</a></li>\n<li><a href=\"/faq\">Frequently asked questions about the website</a></li>\n<li>How to <a href=\"/tech/download/bulk\">download the entire website</a></li>\n<li>Help is never more than a click away: click on the <b><a href=\"/help\">Help</a></b> link near the top right corner of each page.</li>\n</ul>\n\n</dd>\n</dl>\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Beginnings: Suggested Entry Points to this Website\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2005",
+  "source": "",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    }
+  ],
+  "section": "root"
+}

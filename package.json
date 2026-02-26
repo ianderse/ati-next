@@ -4,9 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "tsx scripts/extract-content.ts",
-    "build": "next build",
-    "postbuild": "npx pagefind --site out && cp -r out/pagefind public/pagefind",
+    "build": "next build && npx pagefind --site out",
     "start": "next start",
     "lint": "eslint",
     "extract": "tsx scripts/extract-content.ts"

@@ -1,0 +1,53 @@
+{
+  "slug": "lib--authors--medhanandi--index",
+  "originalPath": "lib/authors/medhanandi/index.html",
+  "urlPath": "/authors/medhanandi",
+  "type": "article",
+  "title": "Ayya Medhanandi",
+  "subtitle": "",
+  "subtitle2": "",
+  "pageTitle": "Ayya Medhanandi",
+  "author": "",
+  "authorShortname": "Medhanandi",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "",
+  "nikaya": "",
+  "nikayaAbbrev": "",
+  "number": "",
+  "ptsId": "",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><dl class=\"bookList\">\n\t\n<!-- html_article_summary.inc.php -->\n\n<dt><a href=\"/authors/medhanandi/foodofkindness\" id=\"foodofkindness\">The Food of Kindness</a>, \n<span class=\"by\">by  Ayya Medhanandi</span>\n<span class=\"filedata\">(2005; 3pp./10KB)</span>\n<a class=\"imgLink\" href=\"./foodofkindness.pdf\" title=\"Get the pdf version (??pages/258KB)\"><img src=\"/img/pdf_24x18.gif\" alt=\"[PDF icon]\" height=\"16\"></a>  </dt>\n<dd>A Theravada bhikkhuni reflects on the joys and hardships of the daily <i>pindapat</i> (alms-round). By this ancient monastic tradition the spiritual mendicant — the \"true beggar\" — receives nourishment from the tangible generosity of others, while at the same time offering others the rare opportunity to practice giving with an open heart. In the words of the author: \"I receive and I give back.\" </dd>\n\n</dl>\n\n\n</body></html>",
+  "summary": "",
+  "extent": "complete",
+  "license": "CC-BY",
+  "copyrightOwner": "",
+  "copyrightYear": "",
+  "derivedLicenseHtml": "The text of this page (\"Ayya Medhanandi\", by Access to Insight) is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International License</a>. To view a copy of the license, visit <a href= \"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a>. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "<a rel='license' href='http://creativecommons.org/licenses/by/4.0/'><img alt='Creative Commons License'  style='float:left;border-width:0;padding-right:1em;' src='./../../../img/cc-by-88x31.png' /></a>",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [
+    {
+      "type": "audio",
+      "url": "index-readers.html#medh\nListen to suttas selected and read aloud by this author",
+      "label": "Listen at SuttaReadings.net"
+    }
+  ],
+  "atiYear": "2005",
+  "source": "This anthology prepared by jtb for Access to Insight.",
+  "editorsNote": "",
+  "suttaNote": "",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Authors",
+      "href": "/authors"
+    }
+  ],
+  "section": "authors"
+}

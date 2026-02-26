@@ -1,0 +1,55 @@
+{
+  "slug": "tipitaka--sn--sn17--sn17.005.wlsh",
+  "originalPath": "tipitaka/sn/sn17/sn17.005.wlsh.html",
+  "urlPath": "/tipitaka/sn/sn17/sn17.005.wlsh",
+  "type": "sutta",
+  "title": "Piḷhika Sutta",
+  "subtitle": "The Dung Beetle",
+  "subtitle2": "",
+  "pageTitle": "Piḷhika Sutta: The Dung Beetle",
+  "author": "Maurice O'Connell Walshe",
+  "authorShortname": "Walshe",
+  "authorAltname": "",
+  "author2": "",
+  "translator": "Maurice O'Connell Walshe",
+  "nikaya": "Samyutta",
+  "nikayaAbbrev": "SN",
+  "number": "5",
+  "ptsId": "S ii 228",
+  "tipitakaBook": "",
+  "tipitakaBookAbbrev": "",
+  "contentHtml": "<!-- BEGIN COPYRIGHTED TEXT CHUNK --><html><head></head><body><div class=\"chapter\">\n\n<p>\"A fatal thing, monks, are gains, favors and fame, a bitter, harsh impediment to the attainment of the unsurpassed freedom from bondage. It is just like a beetle,<a class=\"noteTag\" href=\"#fn-1\" id=\"fnt-1\">[1]</a>  feeding on dung, full of dung, gorged with dung, standing before a great dung-hill, who might despise other beetles, saying: 'I am a dung-eater, full of dung, gorged with dung, and before me is this great dung-hill!'</p>\n\n<p>\"In the same way, monks, if some monk is overwhelmed with gains, favors and fame so that his head is turned, so, having risen early and taken his robe and bowl and gone for alms to the village or market town, he eats his fill, gets invited again for next day, and has a full bowl. Then he goes to the monks' park,<a class=\"noteTag\" href=\"#fn-2\" id=\"fnt-2\">[2]</a> and boasts in the midst of the assembled monks: 'I have had a good meal, and I am invited again for tomorrow. My bowl is full. I have got a robe, alms, lodgings and medical requisites. But these other monks have little merit and little influence, they do not get [<i>all these</i>] requisites.' Thus this bhikkhu, who is so overwhelmed with gains, favors and fame that his head is turned, despises other well-behaved bhikkhus. But this will bring harm and sorrow to that wretched man for many a long day. That shows you, monks, how disastrous gains, favors and fame are, what a bitter, harsh impediment to the attainment of the unsurpassed freedom from bondage. Therefore monks, you should train yourselves thus: 'Whatever gains, favors and fame may come our way we will reject, lest it turn our heads.' So, monks, you should train yourselves.\"</p>\n\n\n<div class=\"notes\">\n<h1>Notes</h1>\n<dl>\n<dt><a href=\"#fnt-1\" id=\"fn-1\">1</a>.</dt>\n\t<dd>The meaning (and indeed the form) of this word is doubtful. Feer's text has \"<i>Pi.lhika</i> (or <i>Mi.lhaka</i>?)\" in the heading, and the word is translated in KS [\"Book of the Kindred Sayings,\" trans. of the Sa.myutta Nikaaya by C.A.F. Rhys Davids (Vols. I-II) and F.L. Woodward (Vols. III-V), 1917-30, PTS] (as here) \"dung-beetle.\" The PED [\"Pali-English Dictionary,\" by T.W. Rhys Davids &amp; William Stede, 1921-25, PTS] says the reading should be <i>mi.lhakaa</i> and renders it \"cess-pool,\" which is obvious nonsense, since a creature of some kind is required. Under <i>pi.lhaka</i> the PED quotes SA [SN Commentary] as \"incorrectly\" explaining it by a low insect \"breeding in excrements.\" While \"dung-beetle\" may conceivably not be entomologically quite correct (a point about which this translator can offer no opinion), there can be no doubt that some such creature is intended, and the PED remarks can only be described as perverse.</dd>\n\n<dt><a href=\"#fnt-2\" id=\"fn-2\">2</a>.</dt>\n\t<dd><i>AAraama</i>. From the meaning of \"pleasure\" (<i>aa</i>+<i>ramati</i> \"enjoys\") this word developed the sense of \"pleasure-park\" and, after the donation of such parks to the Buddha by Anaathapi.n.dika and Ambapaalii, specifically such a park for the use of bhikkhus. Now also used for a monastery complex.</dd>\n\n</dl>\n</div>\n\n</div>\n\n\n</body></html>",
+  "summary": "To seek fame and status: like carrying around a ball of dung.",
+  "extent": "complete",
+  "license": "UNKNOWN",
+  "copyrightOwner": "Buddhist Publication Society",
+  "copyrightYear": "1985",
+  "derivedLicenseHtml": "You may copy, reformat, reprint, republish, and redistribute this work in any medium whatsoever, provided that: (1) you only make such copies, etc. available <em>free of charge</em> and, in the case of reprinting, only in quantities of no more than 50 copies; (2) you clearly indicate that any derivatives of this work (including translations) are derived from this source document; and (3) you include the full text of this license in any copies or derivatives of this work. Otherwise, all rights reserved. Documents linked from this page may be subject to other restrictions.",
+  "derivedLicenseImage": "",
+  "altTranslations": [],
+  "seeAlso": [],
+  "altFormats": [],
+  "atiYear": "2007",
+  "source": "From <a href='../../../lib/authors/walshe/wheel318.html'><i>Samyutta Nikaya: An Anthology (WH 318-321)</i></a>, by M. O'C. Walshe (Kandy: Buddhist Publication Society, 1985). Transcribed from the print edition in 2007 by a volunteer, under the auspices of the Access to Insight Dhamma Transcription Project and by arrangement with the Buddhist Publication Society. Minor revisions were made in accordance with the ATI style sheet. Pali diacritics are represented using the Velthuis convention.",
+  "editorsNote": "",
+  "suttaNote": "The Pali title of this sutta is based on the PTS (Feer) edition.",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tipitaka",
+      "href": "/tipitaka"
+    },
+    {
+      "label": "Samyutta Nikaya",
+      "href": "/tipitaka/sn"
+    },
+    {
+      "label": "sn17",
+      "href": "/tipitaka/sn/sn17"
+    }
+  ],
+  "section": "tipitaka"
+}
