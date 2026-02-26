@@ -15,9 +15,9 @@
   --bg-elevated: #ffffff;
   --bg-inset: #e8e0d3;
 
-  --text-primary: #1c1917;
-  --text-secondary: #57534e;
-  --text-muted: #8c8278;
+  --text-primary: #111110;
+  --text-secondary: #3d3a36;
+  --text-muted: #6b655c;
 
   --border-primary: #d6cdc0;
   --border-subtle: #e8e0d3;
@@ -87,7 +87,7 @@ body {
   background: var(--bg-primary);
   color: var(--text-primary);
   font-family: var(--font-body);
-  font-size: 19px;
+  font-size: 21px;
   line-height: 1.78;
   -webkit-font-smoothing: antialiased;
 }
@@ -145,7 +145,7 @@ body::before {
   --tw-prose-td-borders: var(--border-subtle);
   --tw-prose-code: var(--text-primary);
   --tw-prose-pre-bg: var(--bg-inset);
-  font-size: 19px;
+  font-size: 21px;
   line-height: 1.82;
 }
 

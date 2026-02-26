@@ -61,13 +61,13 @@ export function Header() {
               <circle cx="12" cy="12" r="2.5" />
               <path d="M12 3v6.5M12 14.5V21M3 12h6.5M14.5 12H21M5.64 5.64l4.6 4.6M13.76 13.76l4.6 4.6M5.64 18.36l4.6-4.6M13.76 10.24l4.6-4.6" />
             </svg>
-            <span className="font-[var(--font-ui)] font-semibold text-[15px] tracking-tight text-[var(--text-primary)]">
+            <span className="font-[var(--font-ui)] font-semibold text-[17px] tracking-tight text-[var(--text-primary)]">
               Access to Insight
             </span>
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-0.5 font-[var(--font-ui)] text-[13px] font-medium">
+          <nav className="hidden md:flex items-center gap-0.5 font-[var(--font-ui)] text-[15px] font-medium">
             {navItems.map((item) =>
               item.children ? (
                 <div
@@ -98,7 +98,7 @@ export function Header() {
                           <Link
                             key={child.href}
                             href={child.href}
-                            className="block px-3.5 py-2 text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-inset)] transition-colors text-[13px]"
+                            className="block px-3.5 py-2 text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-inset)] transition-colors text-[15px]"
                           >
                             {child.label}
                           </Link>
@@ -165,7 +165,7 @@ export function Header() {
 
         {/* Mobile nav */}
         {mobileOpen && (
-          <nav className="md:hidden pb-4 pt-2 font-[var(--font-ui)] text-[14px] border-t border-[var(--border-subtle)]">
+          <nav className="md:hidden pb-4 pt-2 font-[var(--font-ui)] text-[16px] border-t border-[var(--border-subtle)]">
             {navItems.map((item) => (
               <div key={item.label}>
                 <Link
@@ -179,7 +179,7 @@ export function Header() {
                   <Link
                     key={child.href}
                     href={child.href}
-                    className="block pl-7 py-2 rounded-md text-[var(--text-secondary)] hover:bg-[var(--bg-inset)] transition-colors text-[13px]"
+                    className="block pl-7 py-2 rounded-md text-[var(--text-secondary)] hover:bg-[var(--bg-inset)] transition-colors text-[15px]"
                     onClick={() => setMobileOpen(false)}
                   >
                     {child.label}

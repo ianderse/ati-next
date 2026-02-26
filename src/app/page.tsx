@@ -108,7 +108,7 @@ export default function HomePage() {
           Readings in Therav&#257;da Buddhism
         </p>
 
-        <div className="mt-6 flex items-center justify-center gap-3 text-sm font-[var(--font-ui)] text-[var(--text-muted)]">
+        <div className="mt-6 flex items-center justify-center gap-3 text-base font-[var(--font-ui)] text-[var(--text-muted)]">
           <span>{suttaCount.toLocaleString()} suttas</span>
           <span className="text-[var(--gold)]">&bull;</span>
           <span>{articleCount.toLocaleString()} articles &amp; books</span>
@@ -133,10 +133,10 @@ export default function HomePage() {
                 {s.icon}
               </div>
               <div>
-                <h2 className="font-[var(--font-ui)] text-[15px] font-semibold text-[var(--text-primary)] mb-1">
+                <h2 className="font-[var(--font-ui)] text-[17px] font-semibold text-[var(--text-primary)] mb-1">
                   {s.title}
                 </h2>
-                <p className="text-sm leading-relaxed text-[var(--text-muted)] font-[var(--font-ui)]">
+                <p className="text-base leading-relaxed text-[var(--text-muted)] font-[var(--font-ui)]">
                   {s.description}
                 </p>
               </div>
@@ -147,10 +147,10 @@ export default function HomePage() {
 
       {/* Random discovery */}
       <div className="text-center pb-16 animate-in stagger-6">
-        <p className="text-[var(--text-muted)] text-sm font-[var(--font-ui)] mb-4">
+        <p className="text-[var(--text-muted)] text-base font-[var(--font-ui)] mb-4">
           Not sure where to start?
         </p>
-        <div className="flex flex-wrap justify-center gap-3 font-[var(--font-ui)] text-sm">
+        <div className="flex flex-wrap justify-center gap-3 font-[var(--font-ui)] text-base">
           <Link
             href="/random/sutta"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-[var(--accent)] no-underline font-medium hover:opacity-90 transition-opacity shadow-[0_1px_3px_rgba(var(--shadow-color)/0.12)]"
