@@ -14,24 +14,23 @@ export default function AuthorsPage() {
       <h1 className="font-[var(--font-ui)] text-2xl md:text-3xl font-bold tracking-tight mb-2 animate-in">
         Authors
       </h1>
-      <p className="text-[var(--text-muted)] text-sm font-[var(--font-ui)] mb-10 animate-in stagger-1">
+      <p style={{ color: "var(--text-muted)" }} className="text-sm font-[var(--font-ui)] mb-10 animate-in stagger-1">
         {authors.length} translators and authors
       </p>
 
-      <div className="space-y-1 animate-in stagger-2">
+      <div className="space-y-0.5 animate-in stagger-2">
         {authors.map((a) => (
-          <Link
-            key={a.shortname}
-            href={`/authors/${a.shortname.toLowerCase()}`}
-            className="flex items-center justify-between px-3 py-2.5 -mx-3 rounded-lg hover:bg-[var(--bg-inset)] no-underline transition-colors group"
-          >
-            <span className="font-[var(--font-ui)] text-sm font-medium text-[var(--text-primary)] group-hover:text-[var(--accent)]">
+          <div key={a.shortname} className="flex items-center justify-between px-3 py-2.5 -mx-3 rounded-lg hover:bg-[var(--bg-inset)] transition-colors">
+            <Link
+              href={`/authors/${a.shortname.toLowerCase()}`}
+              className="font-[var(--font-ui)] text-sm font-medium !text-[#1c1917] dark:!text-[#e8e2d6] hover:!text-[var(--accent)] no-underline"
+            >
               {a.name}
-            </span>
-            <span className="text-xs text-[var(--text-muted)] font-[var(--font-ui)] tabular-nums">
+            </Link>
+            <span className="text-xs font-[var(--font-ui)] tabular-nums" style={{ color: "var(--text-muted)" }}>
               {a.count}
             </span>
-          </Link>
+          </div>
         ))}
       </div>
     </div>

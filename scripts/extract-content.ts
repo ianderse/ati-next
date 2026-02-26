@@ -148,6 +148,33 @@ function rewriteInternalLinks(
     $(el).attr("href", newUrl);
   });
 
+  // Rewrite image src paths to absolute /img/ paths
+  const currentDir = path.dirname(currentOriginalPath);
+  $("img[src]").each((_, el) => {
+    const src = $(el).attr("src");
+    if (!src) return;
+
+    // Skip external images and data URIs
+    if (
+      src.startsWith("http://") ||
+      src.startsWith("https://") ||
+      src.startsWith("data:")
+    ) {
+      return;
+    }
+
+    // Resolve relative path
+    const resolved = path.normalize(path.join(currentDir, src));
+
+    // If it resolves to an img/ path, make it absolute
+    if (resolved.startsWith("img/")) {
+      $(el).attr("src", "/" + resolved);
+    } else {
+      // For other relative paths, try to make absolute
+      $(el).attr("src", "/" + resolved);
+    }
+  });
+
   return $.html();
 }
 

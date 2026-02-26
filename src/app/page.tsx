@@ -153,7 +153,7 @@ export default function HomePage() {
         <div className="flex flex-wrap justify-center gap-3 font-[var(--font-ui)] text-sm">
           <Link
             href="/random/sutta"
-            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-[var(--accent)] text-white no-underline font-medium hover:opacity-90 transition-opacity shadow-[0_1px_3px_rgba(var(--shadow-color)/0.12)]"
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-[var(--accent)] !text-white no-underline font-medium hover:opacity-90 transition-opacity shadow-[0_1px_3px_rgba(var(--shadow-color)/0.12)]"
           >
             <svg viewBox="0 0 16 16" className="w-3.5 h-3.5" fill="none" stroke="currentColor" strokeWidth="1.5">
               <path d="M1.5 10.5l3-3 3 3 4-7" />

@@ -63,7 +63,7 @@ export function Footer() {
               About
             </h4>
             <p className="text-sm text-[var(--text-muted)] leading-relaxed">
-              Owned and managed by the{" "}
+              Owned by the{" "}
               <a
                 href="http://bcbsdharma.org"
                 target="_blank"
@@ -71,7 +71,16 @@ export function Footer() {
                 className="text-[var(--text-secondary)] hover:text-[var(--accent)]"
               >
                 Barre Center for Buddhist Studies
-              </a>.
+              </a>.<br></br>
+              Managed by {" "} 
+              <a
+                href="https://github.com/ianderse"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[var(--text-secondary)] hover:text-[var(--accent)]"
+              >
+                Ian Andersen
+              </a>
             </p>
             <p className="text-xs text-[var(--text-muted)] mt-3 leading-relaxed">
               Originally created by John Bullitt.

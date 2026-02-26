@@ -155,6 +155,17 @@ body::before {
   letter-spacing: -0.025em;
 }
 
+/* Keep small images (icons) inline instead of block */
+.prose :where(img):not(:where([class~="not-prose"] *)) {
+  display: inline;
+  margin: 0;
+}
+
+/* Only make large images block-level */
+.prose :where(img[width]):not(:where([class~="not-prose"] *)) {
+  display: inline;
+}
+
 .prose :where(blockquote):not(:where([class~="not-prose"] *)) {
   border-left-width: 3px;
   border-left-color: var(--gold-muted);
