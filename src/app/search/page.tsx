@@ -83,7 +83,7 @@ export default function SearchPage() {
           {results.map((r, i) => (
             <a
               key={i}
-              href={r.url}
+              href={r.url.replace(/\.html$/, "")}
               className="block p-4 -mx-2 rounded-lg hover:bg-[var(--bg-inset)] transition-colors no-underline group"
             >
               <span className="font-[var(--font-ui)] text-sm font-medium text-[var(--text-primary)] group-hover:text-[var(--accent)]">

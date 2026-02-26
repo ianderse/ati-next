@@ -4,6 +4,7 @@ import {
   getManifest,
   getDocumentByUrlPath,
   getDocumentsByAuthor,
+  getUniqueAuthors,
 } from "@/lib/content/loader";
 import { DocumentPage, generateDocumentMetadata } from "@/components/DocumentPage";
 import type { Metadata } from "next";
@@ -11,11 +12,32 @@ import type { Metadata } from "next";
 export function generateStaticParams() {
   const manifest = getManifest();
   const params: { slug: string[] }[] = [];
+  const seen = new Set<string>();
 
   for (const doc of manifest.documents) {
     if (!doc.urlPath.startsWith("/authors/")) continue;
     const slug = doc.urlPath.replace("/authors/", "").split("/");
-    params.push({ slug });
+    const key = slug.join("/");
+    if (!seen.has(key)) {
+      seen.add(key);
+      params.push({ slug });
+    }
+
+    // Ensure author listing pages exist (e.g. /authors/thanissaro)
+    const first = slug[0];
+    if (!seen.has(first)) {
+      seen.add(first);
+      params.push({ slug: [first] });
+    }
+  }
+
+  // Also add author shortnames from getUniqueAuthors
+  for (const a of getUniqueAuthors()) {
+    const key = a.shortname.toLowerCase();
+    if (!seen.has(key)) {
+      seen.add(key);
+      params.push({ slug: [key] });
+    }
   }
 
   return params;
