@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated data (rebuilt from source HTML during prebuild)
+/src/data/documents/
+/src/data/manifest.json
+/src/data/redirects.json
+
+# pagefind search index (copied from out/ after build)
+/public/pagefind/

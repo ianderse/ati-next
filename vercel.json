@@ -1,0 +1,86 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/lib/authors/:path*",
+      "destination": "/authors/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/lib/thai/:path*",
+      "destination": "/authors/thai/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/lib/study/:path*",
+      "destination": "/study/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/lib/:path*",
+      "destination": "/authors/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/ptf/:path*",
+      "destination": "/guides/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/index-sutta.html",
+      "destination": "/indexes/sutta",
+      "permanent": true
+    },
+    {
+      "source": "/index-subject.html",
+      "destination": "/indexes/subject",
+      "permanent": true
+    },
+    {
+      "source": "/index-similes.html",
+      "destination": "/indexes/similes",
+      "permanent": true
+    },
+    {
+      "source": "/index-author.html",
+      "destination": "/indexes/author",
+      "permanent": true
+    },
+    {
+      "source": "/index-names.html",
+      "destination": "/indexes/names",
+      "permanent": true
+    },
+    {
+      "source": "/index-number.html",
+      "destination": "/indexes/number",
+      "permanent": true
+    },
+    {
+      "source": "/index-title.html",
+      "destination": "/indexes/title",
+      "permanent": true
+    },
+    {
+      "source": "/random-sutta.html",
+      "destination": "/random/sutta",
+      "permanent": true
+    },
+    {
+      "source": "/random-article.html",
+      "destination": "/random/article",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/pagefind/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
