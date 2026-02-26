@@ -22,10 +22,10 @@
   --border-primary: #d6cdc0;
   --border-subtle: #e8e0d3;
 
-  --accent: #1a3d08;
-  --accent-hover: #0f2a04;
+  --accent: #1a5c28;
+  --accent-hover: #114a1c;
   --accent-surface: #e8f0e0;
-  --accent-muted: #4a7030;
+  --accent-muted: #7cb88a;
 
   --gold: #b8860b;
   --gold-muted: #d4a843;
@@ -115,17 +115,17 @@ body::before {
 .prose a,
 .content-links a {
   color: var(--accent);
-  text-decoration: none;
-  transition: color 0.15s ease;
+  text-decoration: underline;
+  text-decoration-color: var(--accent-muted);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
 }
 
 .prose a:hover,
 .content-links a:hover {
   color: var(--accent-hover);
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  text-decoration-thickness: 1px;
-  text-decoration-color: var(--accent-muted);
+  text-decoration-color: var(--accent);
 }
 
 /* ========================
