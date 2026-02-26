@@ -69,8 +69,50 @@ function parseMetadataBlock(html: string): Record<string, string> {
   return metadata;
 }
 
+function decodeHtmlEntities(str: string): string {
+  const entities: Record<string, string> = {
+    "&amp;": "&",
+    "&lt;": "<",
+    "&gt;": ">",
+    "&quot;": '"',
+    "&#39;": "'",
+    "&apos;": "'",
+    "&Ntilde;": "Ñ",
+    "&ntilde;": "ñ",
+    "&Aacute;": "Á",
+    "&aacute;": "á",
+    "&Eacute;": "É",
+    "&eacute;": "é",
+    "&Iacute;": "Í",
+    "&iacute;": "í",
+    "&Oacute;": "Ó",
+    "&oacute;": "ó",
+    "&Uacute;": "Ú",
+    "&uacute;": "ú",
+    "&Agrave;": "À",
+    "&agrave;": "à",
+    "&nbsp;": " ",
+  };
+
+  let result = str;
+  for (const [entity, char] of Object.entries(entities)) {
+    result = result.split(entity).join(char);
+  }
+
+  // Handle numeric entities like &#257; (ā), &#7747; (ṃ), etc.
+  result = result.replace(/&#(\d+);/g, (_, code) =>
+    String.fromCodePoint(parseInt(code, 10))
+  );
+  // Handle hex entities like &#x101;
+  result = result.replace(/&#x([0-9a-fA-F]+);/g, (_, code) =>
+    String.fromCodePoint(parseInt(code, 16))
+  );
+
+  return result;
+}
+
 function cleanMetaValue(val: string): string {
-  return val.trim();
+  return decodeHtmlEntities(val.trim());
 }
 
 // --- Path mapping ---

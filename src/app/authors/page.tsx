@@ -14,22 +14,27 @@ export default function AuthorsPage() {
       <h1 className="font-[var(--font-ui)] text-2xl md:text-3xl font-bold tracking-tight mb-2 animate-in">
         Authors
       </h1>
-      <p style={{ color: "var(--text-muted)" }} className="text-sm font-[var(--font-ui)] mb-10 animate-in stagger-1">
+      <p className="text-sm font-[var(--font-ui)] mb-10 animate-in stagger-1" style={{ color: "var(--text-muted)" }}>
         {authors.length} translators and authors
       </p>
 
       <div className="space-y-0.5 animate-in stagger-2">
         {authors.map((a) => (
-          <div key={a.shortname} className="flex items-center justify-between px-3 py-2.5 -mx-3 rounded-lg hover:bg-[var(--bg-inset)] transition-colors">
+          <div
+            key={a.shortname}
+            className="rounded-lg hover:bg-[var(--bg-inset)] transition-colors"
+          >
             <Link
               href={`/authors/${a.shortname.toLowerCase()}`}
-              className="font-[var(--font-ui)] text-sm font-medium !text-[#1c1917] dark:!text-[#e8e2d6] hover:!text-[var(--accent)] no-underline"
+              className="flex items-center justify-between px-3 py-2.5 no-underline"
             >
-              {a.name}
+              <span className="font-[var(--font-ui)] text-sm font-medium" style={{ color: "inherit" }}>
+                {a.name}
+              </span>
+              <span className="text-xs font-[var(--font-ui)] tabular-nums" style={{ color: "var(--text-muted)" }}>
+                {a.count}
+              </span>
             </Link>
-            <span className="text-xs font-[var(--font-ui)] tabular-nums" style={{ color: "var(--text-muted)" }}>
-              {a.count}
-            </span>
           </div>
         ))}
       </div>

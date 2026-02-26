@@ -72,13 +72,22 @@ export function getUniqueAuthors(): { name: string; shortname: string; count: nu
     const existing = authorMap.get(key);
     if (existing) {
       existing.count++;
+      // Update name if we find a non-empty one (index pages have empty author)
+      if (!existing.name && doc.author) {
+        existing.name = doc.author;
+      }
     } else {
       authorMap.set(key, { name: doc.author, count: 1 });
     }
   }
 
   return Array.from(authorMap.entries())
-    .map(([shortname, { name, count }]) => ({ name, shortname, count }))
+    .map(([shortname, { name, count }]) => ({
+      // Fall back to shortname if no full name was found
+      name: name || shortname.charAt(0).toUpperCase() + shortname.slice(1),
+      shortname,
+      count,
+    }))
     .sort((a, b) => a.name.localeCompare(b.name));
 }
 
