@@ -36,7 +36,7 @@ export function ClassicHome({
             the cleansing of one&apos;s own mind:<br />
             &nbsp;&nbsp;&nbsp;this is the teaching<br />
             &nbsp;&nbsp;&nbsp;of the Awakened.{" "}
-            <Link href="/tipitaka/kn/dhp/dhp.14.than">&bull;</Link>
+            <Link href="/tipitaka/kn/dhp/dhp.14.than" aria-label="Source: Dhammapada, Chapter 14">&bull;</Link>
           </div>
         </div>
         <div style={{ clear: "both" }} />

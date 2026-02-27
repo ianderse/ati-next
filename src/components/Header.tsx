@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { ThemeToggle } from "./ThemeToggle";
 
@@ -24,15 +25,38 @@ const navItems = [
 ];
 
 export function Header() {
+  const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+
+  const isActive = (href: string) => {
+    if (href === "/") return pathname === "/";
+    // Handle /indexes/sutta matching /indexes/*
+    const base = href.split("/").slice(0, 2).join("/");
+    return pathname === href || pathname.startsWith(base + "/") || pathname === base;
+  };
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 8);
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
+  // Lock body scroll when mobile menu is open
+  useEffect(() => {
+    if (mobileOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => { document.body.style.overflow = ""; };
+  }, [mobileOpen]);
+
+  // Close mobile menu on route change
+  useEffect(() => {
+    setMobileOpen(false);
+  }, [pathname]);
 
   return (
     <header
@@ -78,7 +102,11 @@ export function Header() {
                 >
                   <Link
                     href={item.href}
-                    className="px-3 py-1.5 rounded-md text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-inset)] transition-colors"
+                    className={`px-3 py-1.5 rounded-md transition-colors ${
+                      isActive(item.href)
+                        ? "text-[var(--text-primary)] bg-[var(--bg-inset)]"
+                        : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-inset)]"
+                    }`}
                   >
                     {item.label}
                     <svg
@@ -111,7 +139,11 @@ export function Header() {
                 <Link
                   key={item.label}
                   href={item.href}
-                  className="px-3 py-1.5 rounded-md text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-inset)] transition-colors"
+                  className={`px-3 py-1.5 rounded-md transition-colors ${
+                    isActive(item.href)
+                      ? "text-[var(--text-primary)] bg-[var(--bg-inset)]"
+                      : "text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-inset)]"
+                  }`}
                 >
                   {item.label}
                 </Link>
@@ -165,29 +197,39 @@ export function Header() {
 
         {/* Mobile nav */}
         {mobileOpen && (
-          <nav className="md:hidden pb-4 pt-2 font-[var(--font-ui)] text-[16px] border-t border-[var(--border-subtle)]">
-            {navItems.map((item) => (
-              <div key={item.label}>
-                <Link
-                  href={item.href}
-                  className="block px-3 py-2.5 rounded-md text-[var(--text-primary)] hover:bg-[var(--bg-inset)] font-medium transition-colors"
-                  onClick={() => setMobileOpen(false)}
-                >
-                  {item.label}
-                </Link>
-                {item.children?.map((child) => (
+          <>
+            <div
+              className="fixed inset-0 top-16 bg-[var(--bg-primary)]/80 backdrop-blur-sm z-40 md:hidden"
+              onClick={() => setMobileOpen(false)}
+            />
+            <nav className="fixed inset-x-0 top-16 z-50 md:hidden bg-[var(--bg-primary)] border-t border-[var(--border-subtle)] pb-4 pt-2 px-4 sm:px-6 font-[var(--font-ui)] text-[16px] overflow-y-auto max-h-[calc(100vh-4rem)]">
+              {navItems.map((item) => (
+                <div key={item.label}>
                   <Link
-                    key={child.href}
-                    href={child.href}
-                    className="block pl-7 py-2 rounded-md text-[var(--text-secondary)] hover:bg-[var(--bg-inset)] transition-colors text-[15px]"
+                    href={item.href}
+                    className={`block px-3 py-2.5 rounded-md font-medium transition-colors ${
+                      isActive(item.href)
+                        ? "text-[var(--accent)] bg-[var(--bg-inset)]"
+                        : "text-[var(--text-primary)] hover:bg-[var(--bg-inset)]"
+                    }`}
                     onClick={() => setMobileOpen(false)}
                   >
-                    {child.label}
+                    {item.label}
                   </Link>
-                ))}
-              </div>
-            ))}
-          </nav>
+                  {item.children?.map((child) => (
+                    <Link
+                      key={child.href}
+                      href={child.href}
+                      className="block pl-7 py-2 rounded-md text-[var(--text-secondary)] hover:bg-[var(--bg-inset)] transition-colors text-[15px]"
+                      onClick={() => setMobileOpen(false)}
+                    >
+                      {child.label}
+                    </Link>
+                  ))}
+                </div>
+              ))}
+            </nav>
+          </>
         )}
       </div>
     </header>

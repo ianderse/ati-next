@@ -66,13 +66,23 @@ export function getUniqueAuthors(): { name: string; shortname: string; count: nu
   const manifest = getManifest();
   const authorMap = new Map<string, { name: string; count: number }>();
 
+  // First pass: collect index page titles as canonical author names
+  const indexTitles = new Map<string, string>();
+  for (const doc of manifest.documents) {
+    if (!doc.authorShortname) continue;
+    // Author index pages have slug ending in --index and often have
+    // the author's proper name as the title while author field is empty
+    if (doc.slug.endsWith("--index") && doc.title && !doc.author) {
+      indexTitles.set(doc.authorShortname.toLowerCase(), doc.title);
+    }
+  }
+
   for (const doc of manifest.documents) {
     if (!doc.authorShortname) continue;
     const key = doc.authorShortname.toLowerCase();
     const existing = authorMap.get(key);
     if (existing) {
       existing.count++;
-      // Update name if we find a non-empty one (index pages have empty author)
       if (!existing.name && doc.author) {
         existing.name = doc.author;
       }
@@ -83,8 +93,9 @@ export function getUniqueAuthors(): { name: string; shortname: string; count: nu
 
   return Array.from(authorMap.entries())
     .map(([shortname, { name, count }]) => ({
-      // Fall back to shortname if no full name was found
-      name: name || shortname.charAt(0).toUpperCase() + shortname.slice(1),
+      // Prefer index page title (canonical author name) over the author field
+      // which may be the translator rather than the section author
+      name: indexTitles.get(shortname) || name || shortname.charAt(0).toUpperCase() + shortname.slice(1),
       shortname,
       count,
     }))

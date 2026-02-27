@@ -464,6 +464,11 @@ html {
   text-transform: none;
 }
 
+/* Classic: no min-height on main — let content dictate page height */
+.classic main {
+  min-height: auto !important;
+}
+
 /* Classic: narrower content — 680px like original #H_container */
 .classic main > .max-w-4xl,
 .classic main > div > .max-w-4xl,
