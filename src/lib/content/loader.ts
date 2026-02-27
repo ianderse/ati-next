@@ -44,11 +44,25 @@ export function getDocumentsByNikaya(nikayaAbbrev: string): ManifestEntry[] {
   );
 }
 
+// Merge duplicate author shortnames that refer to the same person
+// Maps alternate shortname -> canonical shortname
+const AUTHOR_ALIASES: Record<string, string> = {
+  "nanamoli": "\u00f1anamoli",       // Ñanamoli Thera
+  "nanananda": "\u00f1anananda",     // Bhikkhu Ñanananda
+  "u silananda": "silananda",        // Sayadaw U Silananda
+  "nyanasamvara": "nanasamvara",     // Somdet Phra Ñanasamvara
+};
+
+function canonicalShortname(shortname: string): string {
+  const lower = shortname.toLowerCase();
+  return AUTHOR_ALIASES[lower] || lower;
+}
+
 export function getDocumentsByAuthor(authorShortname: string): ManifestEntry[] {
   const manifest = getManifest();
+  const canonical = canonicalShortname(authorShortname);
   return manifest.documents.filter(
-    (d) =>
-      d.authorShortname.toLowerCase() === authorShortname.toLowerCase()
+    (d) => canonicalShortname(d.authorShortname) === canonical
   );
 }
 
@@ -73,13 +87,14 @@ export function getUniqueAuthors(): { name: string; shortname: string; count: nu
     // Author index pages have slug ending in --index and often have
     // the author's proper name as the title while author field is empty
     if (doc.slug.endsWith("--index") && doc.title && !doc.author) {
-      indexTitles.set(doc.authorShortname.toLowerCase(), doc.title);
+      const key = canonicalShortname(doc.authorShortname);
+      indexTitles.set(key, doc.title);
     }
   }
 
   for (const doc of manifest.documents) {
     if (!doc.authorShortname) continue;
-    const key = doc.authorShortname.toLowerCase();
+    const key = canonicalShortname(doc.authorShortname);
     const existing = authorMap.get(key);
     if (existing) {
       existing.count++;

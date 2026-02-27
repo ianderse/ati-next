@@ -3,6 +3,51 @@
 import Link from "next/link";
 import { useClassicMode } from "@/lib/classic-mode";
 
+const verses = [
+  {
+    text: "The non-doing of any evil,\nthe performance of what\u2019s skillful,\nthe cleansing of one\u2019s own mind:\nthis is the teaching\nof the Awakened.",
+    source: "Dhp 183",
+    href: "/tipitaka/kn/dhp/dhp.14.than",
+  },
+  {
+    text: "All experience is preceded by mind,\nled by mind,\nmade by mind.\nSpeak or act with a peaceful mind,\nand happiness follows\nlike a never-departing shadow.",
+    source: "Dhp 2",
+    href: "/tipitaka/kn/dhp/dhp.01.than",
+  },
+  {
+    text: "Just as a solid rock\nis not shaken by the storm,\neven so the wise\nare not affected\nby praise or blame.",
+    source: "Dhp 81",
+    href: "/tipitaka/kn/dhp/dhp.06.than",
+  },
+  {
+    text: "Better than a thousand\nhollow words\nis one word that brings peace.",
+    source: "Dhp 100",
+    href: "/tipitaka/kn/dhp/dhp.08.than",
+  },
+  {
+    text: "Hatred is never appeased by hatred in this world.\nBy non-hatred alone is hatred appeased.\nThis is a law eternal.",
+    source: "Dhp 5",
+    href: "/tipitaka/kn/dhp/dhp.01.than",
+  },
+  {
+    text: "Drop by drop\nis the water pot filled.\nLikewise, the wise one,\ngathering it little by little,\nfills himself with good.",
+    source: "Dhp 122",
+    href: "/tipitaka/kn/dhp/dhp.09.than",
+  },
+  {
+    text: "You yourself must strive.\nThe Awakened Ones only point the way.\nThose meditative ones who tread the path\nare released from the bonds of Mara.",
+    source: "Dhp 276",
+    href: "/tipitaka/kn/dhp/dhp.20.than",
+  },
+];
+
+function getDailyVerse() {
+  const dayOfYear = Math.floor(
+    (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000
+  );
+  return verses[dayOfYear % verses.length];
+}
+
 const sections = [
   {
     title: "Tipitaka",
@@ -121,8 +166,21 @@ export function ModernHome({
         </div>
       </div>
 
+      {/* Daily verse */}
+      <div className="max-w-lg mx-auto text-center mb-14 animate-in stagger-1">
+        <blockquote className="text-[var(--text-secondary)] text-lg italic leading-relaxed whitespace-pre-line">
+          {getDailyVerse().text}
+        </blockquote>
+        <Link
+          href={getDailyVerse().href}
+          className="inline-block mt-3 text-sm font-[var(--font-ui)] text-[var(--gold)] hover:text-[var(--gold-muted)] transition-colors no-underline"
+        >
+          &mdash; {getDailyVerse().source}
+        </Link>
+      </div>
+
       {/* Ornamental divider */}
-      <div className="ornament mb-12 animate-in stagger-1">
+      <div className="ornament mb-12 animate-in stagger-2">
         <span className="font-[var(--font-ui)] uppercase tracking-[0.2em]">Explore</span>
       </div>
 
@@ -132,7 +190,7 @@ export function ModernHome({
           <Link
             key={s.title}
             href={s.href}
-            className={`card-glow block p-5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] no-underline group animate-in stagger-${i + 1}`}
+            className={`card-glow block p-5 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] no-underline group animate-in stagger-${i + 2}`}
           >
             <div className="flex items-start gap-3.5">
               <div className="mt-0.5 p-2 rounded-lg bg-[var(--accent-surface)] text-[var(--accent)] shrink-0 transition-colors group-hover:bg-[var(--accent)] group-hover:text-white">

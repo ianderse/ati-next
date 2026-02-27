@@ -2,7 +2,8 @@ import Link from "next/link";
 import type { Breadcrumb } from "@/lib/content/types";
 
 export function Breadcrumbs({ items }: { items: Breadcrumb[] }) {
-  if (!items || items.length === 0) return null;
+  // Don't render if empty or only "Home" — a single-item breadcrumb provides no value
+  if (!items || items.length <= 1) return null;
 
   return (
     <nav aria-label="Breadcrumb" className="font-[var(--font-ui)] text-xs text-[var(--text-muted)] mb-8">

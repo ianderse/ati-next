@@ -105,10 +105,55 @@ export default function SearchPage() {
       )}
 
       {!query && (
-        <p className="mt-8 text-[var(--text-muted)] font-[var(--font-ui)] text-xs leading-relaxed">
-          Search across all suttas, articles, books, and guides.
-          Try P&#257;li terms, sutta names, or topics.
-        </p>
+        <div className="mt-10 animate-in stagger-2">
+          <p className="text-[var(--text-muted)] font-[var(--font-ui)] text-xs leading-relaxed mb-8">
+            Search across all suttas, articles, books, and guides.
+            Try P&#257;li terms, sutta names, or topics.
+          </p>
+
+          <div className="mb-8">
+            <h2 className="font-[var(--font-ui)] text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)] mb-3">
+              Try searching for
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              {["mindfulness", "nibbana", "four noble truths", "metta", "dependent origination", "jhana", "anatta", "dukkha", "noble eightfold path", "kamma"].map((term) => (
+                <button
+                  key={term}
+                  onClick={() => handleSearch(term)}
+                  className="px-3 py-1.5 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] font-[var(--font-ui)] text-xs hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors cursor-pointer"
+                >
+                  {term}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h2 className="font-[var(--font-ui)] text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)] mb-3">
+              Or browse by
+            </h2>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 font-[var(--font-ui)] text-sm">
+              <a href="/tipitaka" className="p-3 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors no-underline">
+                Tipitaka
+              </a>
+              <a href="/indexes/sutta" className="p-3 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors no-underline">
+                Sutta Index
+              </a>
+              <a href="/indexes/subject" className="p-3 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors no-underline">
+                Subject Index
+              </a>
+              <a href="/authors" className="p-3 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors no-underline">
+                Authors
+              </a>
+              <a href="/glossary" className="p-3 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors no-underline">
+                Glossary
+              </a>
+              <a href="/guides" className="p-3 rounded-lg border border-[var(--border-subtle)] bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors no-underline">
+                Guides
+              </a>
+            </div>
+          </div>
+        </div>
       )}
     </div>
   );

@@ -180,6 +180,50 @@ body::before {
 }
 
 /* ========================
+   CHAPTER NAVIGATION (.hlist)
+   ======================== */
+.prose ul.hlist {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  padding: 0.75rem 0;
+  margin: 1.5rem 0;
+  border-top: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+  gap: 1rem;
+}
+
+.prose ul.hlist li {
+  padding: 0;
+  margin: 0;
+}
+
+.prose ul.hlist li a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-decoration: none;
+  padding: 0.35rem 0.75rem;
+  border-radius: 0.375rem;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.prose ul.hlist li a:hover {
+  color: var(--text-primary);
+  background: var(--bg-inset);
+  text-decoration: none;
+}
+
+.prose ul.hlist li:last-child {
+  margin-left: auto;
+}
+
+/* ========================
    NAV
    ======================== */
 nav a { text-decoration: none; }
